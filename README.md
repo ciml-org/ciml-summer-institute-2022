@@ -1,18 +1,17 @@
-# ciml-summer-institute-2021
-
-## WebSite:  https://na.eventscloud.com/website/22773/
+# ciml-summer-institute-2022
+## Website: [https://na.eventscloud.com/website/36626/](https://na.eventscloud.com/website/36626/)
 
 ## Interactive Videos
-* A link to the recorded sessions can be found [here](https://www.sdsc.edu/event_items/202106_cimlsi.html).
+* A link to the recorded sessions will be made available A.S.A.P.
 * A full catalog of all our trainings at SDSC can be found [here](https://www.sdsc.edu/education_and_training/training_hpc.html#catalog).
 
 ### <a name="top">**Contents:**
 * [Description](#description)
 * [Agenda](#agenda)
-  * [Friday, June 18 – Preparation Day](#agenda-prep)
-  * [Tuesday, June 22 - Cyberinfrastructure & HPC](#agenda-ci-hpc)
-  * [Wednesday, June 23 - Scalable Machine Learning](#agenda-scalable-ml)
-  * [Thursday, June 24 - Machine Learning Hands-on](#agenda-hands-on)
+  * [Wednesday, June 22 – Preparation Day](#agenda-prep)
+  * [Monday, June 27 - Cyberinfrastructure & HPC](#agenda-ci-hpc)
+  * [Tuesday, June 28 - Deep Learning](#agenda-deep-ml)
+  * [Wednesday, June 29 - Machine Learning Hands-on](#agenda-hands-on)
 * [Instructors](#instructors)
 * Interactive Video: Will be posted within a few days of the workshop
 * All presentations are located in this repository.

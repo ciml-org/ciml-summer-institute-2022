@@ -4,7 +4,6 @@ You will get the most out of the CIML Summer Institute if you are prepared prior
 To help you get the most out of this workshop, this section contains a set of detailed start-up instructions, beginning with setting up your account and connecting to Expanse, to configuring your laptop for running visualization software. Please read the documents and exercises carefully, and complete all necessary steps before event. Feel free to ask questions or if you have any problems with the start-up tasks
 
 <a name="top">Contents
-* [Prep Day Schedule](#prep-day)
 * [Expanse User Guide](#expanse-guide)
 * [Computer and Laptop Set-up](#computer-req)
 * [Account Requirements](#accounts)
@@ -19,16 +18,6 @@ To help you get the most out of this workshop, this section contains a set of de
 * [Other BasicSkills](#other-skills)
 
 
-## Prep Day Schedule (Wednesday, 06/22/22): <a name="prep-day"></a>
-
-| **TIME (Pacific time)**       |   **TOPIC** | **PRESENTER** |
-| -------------------- |  ----------- | ----------- |
-| 9:00 AM - 9:20 AM	   |  [1.1. Welcome & Orientation](need link) | [Mary Thomas](#thomas)   |
-| 9:20 AM – 9:50 AM    |  [1.2. Accounts, Login, Environment, Running Jobs and Logging into Expanse User Portal](need link) | [Mary Thomas](#thomas)  |
-| 9:50 AM – 10:20 AM   |  [1.3. Running Jupyter Notebooks on Expanse ]((need link)| [Marty Kandes](#kandes) |
-| 10:20 AM – 10:50 AM  |  [1.4. Installing your own miniconda & creating conda environments](need link) | [Peter Rose](#rose) |
-| 10:50 AM – 11:00 AM	 |  Q&A, Wrap-up  | All |
-
 ## Expanse User Guide <a name="expanse-guide"></a>
 Please read the Expanse user guide and familiarize yourself with the hardware, file systems, batch job submission, compilers and modules. The guide can be found here:
 * [Expanse User Guide](https://www.sdsc.edu/support/user_guides/expanse.html)
@@ -39,8 +28,6 @@ Note: if you have any difficulties getting set up, please contact Institute staf
 <hr>
 
 ##  Accounts: <a name="accounts"></a>
-[Back to Top](#top)
-<hr>
 
 ### Logging onto Expanse training account: <a name="logon-expanse"></a>
 * You will be given an account on the SDSC Expanse computer. Information on the account will be sent to you via email. Please complete the process of activating your account before the institute begins.

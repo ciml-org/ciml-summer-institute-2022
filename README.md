@@ -1,5 +1,5 @@
 # ciml-summer-institute-2022
-## Website: [https://na.eventscloud.com/website/36626/](https://na.eventscloud.com/website/36626/)
+## Website: [https://na.eventscloud.com/website/35357/home/](https://na.eventscloud.com/website/35357/home/)
 
 ## Interactive Videos
 * A link to the recorded sessions will be made available a.s.a.p after the program has concluded 

@@ -23,7 +23,7 @@ To work with the material, remember to CLONE this repo.
 ## Agenda:<a name="agenda"></a>
 All times are in Pacific time.
 
-### Preparation Day (Wendesday, 06/22/22) <a name="agenda-prep"></a>
+### Preparation Day (Wednesday, 06/22/22) <a name="agenda-prep"></a>
 | **TIME (Pacific time)**       |   **TOPIC** | **PRESENTER** |
 | -------------------- |  ----------- | ----------- |
 | 9:00 AM - 9:20 AM	   |  [1.1. Welcome & Orientation](need link) | [Mary Thomas](#thomas)   |

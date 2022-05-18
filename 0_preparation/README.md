@@ -1,4 +1,4 @@
-# Preparing for the CIML Summer Institute 2021
+# Preparing for the CIML Summer Institute 2022
 You will get the most out of the CIML Summer Institute if you are prepared prior to the event. By brushing up on your knowledge of Linux and installing all necessary software on your laptop before to the event, you’ll be able to focus your attention on the skills and topics that are most relevant to high performance and data intensive computing.
 
 To help you get the most out of this workshop, this section contains a set of detailed start-up instructions, beginning with setting up your account and connecting to Expanse, to configuring your laptop for running visualization software. Please read the documents and exercises carefully, and complete all necessary steps before event. Feel free to ask questions or if you have any problems with the start-up tasks
@@ -19,21 +19,21 @@ To help you get the most out of this workshop, this section contains a set of de
 * [Other BasicSkills](#other-skills)
 
 
-## Prep Day Schedule (6/18/2021, 9-11 am): <a name="prep-day"></a>
+## Prep Day Schedule (Wednesday, 06/22/22): <a name="prep-day"></a>
 
-| **TIME (PST)**       | **TOPIC** | **PRESENTER** |
-| -------------------- | ----------- | ----------- |
-| 9:00 AM - 9:10 AM	 | Welcome  | [presenter](#tbd) |
-| 9:10 AM – 9:40 AM	 | Accounts, Login, Environment, Running Jobs  | [presenter](#tbd) |
-| 9:40 AM – 10:10 AM | Installing miniconda, Running Jupyter Notebooks  | [presenter](#tbd) |
-| 10:10 AM – 10:40 AM | Hands-on - Confirm conda installation (mini-conda)  | [presenter](#tbd) |
-| 10:40 AM – 11:00 AM	 | Q&A, Wrap-up  | all |
-
-Note: if you have any difficulties getting set up, please contact Institute staff at consult@sdsc.edu.
+| **TIME (Pacific time)**       |   **TOPIC** | **PRESENTER** |
+| -------------------- |  ----------- | ----------- |
+| 9:00 AM - 9:20 AM	   |  [1.1. Welcome & Orientation](need link) | [Mary Thomas](#thomas)   |
+| 9:20 AM – 9:50 AM    |  [1.2. Accounts, Login, Environment, Running Jobs and Logging into Expanse User Portal](need link) | [Mary Thomas](#thomas)  |
+| 9:50 AM – 10:20 AM   |  [1.3. Running Jupyter Notebooks on Expanse ]((need link)| [Marty Kandes](#kandes) |
+| 10:20 AM – 10:50 AM  |  [1.4. Installing your own miniconda & creating conda environments](need link) | [Peter Rose](#rose) |
+| 10:50 AM – 11:00 AM	 |  Q&A, Wrap-up  | All |
 
 ## Expanse User Guide <a name="expanse-guide"></a>
 Please read the Expanse user guide and familiarize yourself with the hardware, file systems, batch job submission, compilers and modules. The guide can be found here:
 * [Expanse User Guide](https://www.sdsc.edu/support/user_guides/expanse.html)
+  
+Note: if you have any difficulties getting set up, please contact Institute staff at consult@sdsc.edu.
 
 [Back to Top](#top)
 <hr>
@@ -85,11 +85,6 @@ To ensure the security of our Zoom links, details will be sent to all participan
 
 * Most of the training material will be located on the [CIML SI21 GitHub repo](https://github.com/ciml-org/ciml-summer-institute-2021). In addition, one of the Thursday hands-on sessions will require a GitHub account. If you do not already have one, you can create a free personal GitHub account [here](https://docs.github.com/en/github/getting-started-with-github/signing-up-for-github/signing-up-for-a-new-github-account).   
 See this quick-start guide for using GitHub on SDSC resources: https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/using_github
-
-[Back to Top](#top)
-<hr>
-
-
   
 [Back to Top](#top)
 <hr>

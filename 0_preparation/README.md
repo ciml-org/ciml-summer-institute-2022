@@ -14,7 +14,6 @@ To help you get the most out of this workshop, this section contains a set of de
   * [Zoom](#zoom)
   * [Slack](#slack)
   * [Github Account](#github)
-* [Software Requirements](#software)
 * [Other BasicSkills](#other-skills)
 
 
@@ -65,20 +64,6 @@ To ensure the security of our Zoom links, details will be sent to all participan
   
 ### Github: <a name="github"></a>
 * Most of the training material will be located on the CIML Summer Institute GitHub repo and one of the Thursday hands-on sessions will require a GitHub account. * If you do not already have one, you can create a free personal GitHub account [here](https://docs.github.com/en/github/getting-started-with-github/signing-up-for-github/signing-up-for-a-new-github-account).   
-* For examples of using GitHub on Expanse, see: https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/using_github
-
-  
-  ##### Using GitHub<a name="github"></a>
-
-* Most of the training material will be located on the [CIML SI21 GitHub repo](https://github.com/ciml-org/ciml-summer-institute-2021). In addition, one of the Thursday hands-on sessions will require a GitHub account. If you do not already have one, you can create a free personal GitHub account [here](https://docs.github.com/en/github/getting-started-with-github/signing-up-for-github/signing-up-for-a-new-github-account).   
-See this quick-start guide for using GitHub on SDSC resources: https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/using_github
-  
-[Back to Top](#top)
-<hr>
- 
-## Software Requirements: <a name="software"></a>
-The document below contains a list of software being used at the institute and installation instructions:
-* [Software_Requirements](https://github.com/ciml-org/ciml-summer-institute-2021/blob/main/0_preparation/software_requirements.md)
 
 [Back to Top](#top)
 <hr>

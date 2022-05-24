@@ -83,7 +83,7 @@ The document below contains a list of software being used at the institute and i
 [Back to Top](#top)
 <hr>
 
-### Basic Skills <a name="other-skills"></a>
+### Basic Skills <a name="other-skills"></a> - mary to clean up and confirm the details below. 
 See the [Basic HPC Skills repo](https://github.com/sdsc-hpc-training-org/basic_skills)
 https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/basic_linux_skills
 
@@ -91,7 +91,7 @@ https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/basic_linux_sk
 * [Basic_Linux_Skills](https://github.com/sdsc/sdsc-summer-institute-2020/tree/master/0_preparation/basic_linux_skills)
 * [Interactive Computing](https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/interactive_computing)
 * [How to Run Notebooks on Expanse](https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/how_to_run_notebooks_on_expanse)
-* [Using GitHub](https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/using_github)
+* [Using GitHub](https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/using_github) - Marty okay'd but needs to be updated
 
 [Back to Top](#top)
 <hr>

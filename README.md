@@ -26,9 +26,9 @@ All times are in Pacific time.
 ### Preparation Day (Wednesday, 06/22/22) <a name="agenda-prep"></a>
 | **TIME (Pacific time)**       |   **TOPIC** | **PRESENTER** |
 | -------------------- |  ----------- | ----------- |
-| 9:00 AM - 9:20 AM	   |  [1.1. Welcome & Orientation](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/1.1_prep_day_welcome_and_orientation) | [Mary Thomas](#thomas)   |
-| 9:20 AM – 9:50 AM    |  [1.2. Accounts, Login, Environment, Running Jobs and Logging into Expanse User Portal](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/1.2_accounts_login_environments_running_jobs_expanse_portal) | [Mary Thomas](#thomas)  |
-| 9:50 AM – 10:10 AM   |  [1.3. Running Jupyter Notebooks on Expanse ](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/1.3_running_jupyter_notebooks_expanse)| [Marty Kandes](#kandes) |
+| 9:00 AM - 9:20 AM	   |  [1.1 Welcome & Orientation](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/1.1_prep_day_welcome_and_orientation) | [Mary Thomas](#thomas)   |
+| 9:20 AM – 9:50 AM    |  [1.2 Accounts, Login, Environment, Running Jobs and Logging into Expanse User Portal](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/1.2_accounts_login_environments_running_jobs_expanse_portal) | [Mary Thomas](#thomas)  |
+| 9:50 AM – 10:10 AM   |  [1.3 Running Jupyter Notebooks on Expanse ](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/1.3_running_jupyter_notebooks_expanse)| [Marty Kandes](#kandes) |
 | 10:10 AM – 10:30 AM	 |  Q&A, Wrap-up  | All |
 
 [Back to Top](#top)

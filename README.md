@@ -28,9 +28,8 @@ All times are in Pacific time.
 | -------------------- |  ----------- | ----------- |
 | 9:00 AM - 9:20 AM	   |  [1.1. Welcome & Orientation](need link) | [Mary Thomas](#thomas)   |
 | 9:20 AM – 9:50 AM    |  [1.2. Accounts, Login, Environment, Running Jobs and Logging into Expanse User Portal](need link) | [Mary Thomas](#thomas)  |
-| 9:50 AM – 10:20 AM   |  [1.3. Running Jupyter Notebooks on Expanse ]((need link)| [Marty Kandes](#kandes) |
-| 10:20 AM – 10:50 AM  |  [1.4. Installing your own miniconda & creating conda environments](need link) | [Peter Rose](#rose) |
-| 10:50 AM – 11:00 AM	 |  Q&A, Wrap-up  | All |
+| 9:50 AM – 10:10 AM   |  [1.3. Running Jupyter Notebooks on Expanse ]((need link)| [Marty Kandes](#kandes) |
+| 10:10 AM – 10:30 AM	 |  Q&A, Wrap-up  | All |
 
 [Back to Top](#top)
 

@@ -65,7 +65,7 @@ All times are in Pacific time.
 | 8:00 AM – 8:05 AM    |  [4.1 Quick Welcome](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/4.1_quick_welcome_introduction)  | [Mary Thomas](#thomas) |
 | 8:05 AM – 9:05 AM    |  [4.2 Intro to NN/CNN ](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/4.2_intro_to_nn_cnn) | [Paul Rodriguez](#rodriguez) |
 | 9:05 AM – 10:05 AM   |  [4.3 Deep Learning](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/4.3_deep_learning) | [Paul Rodriguez](#rodriguez)  |
-| 10:05 AM – 10:50 AM	 |  [4.4 Deep Learning Layers and Models](need link) | [Mai Nguyen](#nguyen) |
+| 10:05 AM – 10:50 AM	 |  [4.4 Deep Learning Layers and Models](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/4.4_deep_learning_layers_and_models) | [Mai Nguyen](#nguyen) |
 | 10:55 AM – 11:25 AM	 |  Break/Lunch  |  |
 | 11:25 AM – 12:25 PM   |  [4.5 Deep Learning Transfer Learning](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/4.5_deep_learning_transfer_learning)  | [Mai Nguyen](#nguyen) |
 | 12:25 PM – 1:25 PM    |  [4.6 Deep Learning – Other topics](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/4.6_deep_learning_other_topics)  | [Paul Rodriguez](#rodriguez) |

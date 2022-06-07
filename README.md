@@ -2,7 +2,7 @@
 ## Website: [https://na.eventscloud.com/website/35357/home/](https://na.eventscloud.com/website/35357/home/)
 
 ## Interactive Videos
-* A link to the recorded sessions will be made available a.s.a.p after the program has concluded 
+* A link to the recorded sessions will be made available a.s.a.p after the program has concluded
 * A full catalog of all our trainings at SDSC can be found [here](https://www.sdsc.edu/education_and_training/training_hpc.html#catalog).
 
 ### <a name="top">**Contents:**
@@ -18,8 +18,8 @@
 ## Description:<a name="description"></a>
 This repository contains all the presentations and training material used for the CIML Summer Institute.
 To work with the material, remember to CLONE this repo.
- 
- 
+
+
 ## Agenda:<a name="agenda"></a>
 All times are in Pacific time.
 
@@ -80,12 +80,12 @@ All times are in Pacific time.
 | **NAME** | **TITLE** | **ORG** |
 | ---------------------------------- | ----------- | ----------- |
 | Andreas Goetz<a name="goetz"></a>  |  Director -  Computational Chemistry Laboratory [(bio)](https://www.sdsc.edu/research/researcher_spotlight/goetz_andreas.html) |  SDSC |
-| Mai Nguyen<a name="nguyen"></a>  |  Lead -  Data Scientist [(bio)](https://www.sdsc.edu/research/researcher_spotlight/nguyen_mai.html) |  SDSC |
 | Marty Kandes<a name="kandes"></a>  |  Computational and Data Science Research Specialist [(bio)](https://www.linkedin.com/in/marty-kandes-b53a34144/) |  SDSC |
-| Mary Thomas<a name="thomas"></a>  | Computational Data Scientist, Lead -  HPC Training  [(bio)](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)| SDSC |
+| Mai Nguyen<a name="nguyen"></a>  |  Lead -  Data Scientist [(bio)](https://www.sdsc.edu/research/researcher_spotlight/nguyen_mai.html) |  SDSC |
 | Paul Rodriguez<a name="rodriguez"></a>  |  Computational Data Scientist [(bio)](https://www.coursera.org/instructor/~13847302) |  SDSC |
 | Peter Rose<a name="rose"></a>  |  Director -  Structural Bioinformatics Laboratory [(bio)](https://www.sdsc.edu/research/researcher_spotlight/rose_peter.html) |  SDSC |
 | Robert Sinkovits<a name="sinkovits"></a>  | Director for Scientific Computing Applications [(bio)](https://www.sdsc.edu/research/researcher_spotlight/sinkovits_robert.html) | SDSC|
+| Mary Thomas<a name="thomas"></a>  | Computational Data Scientist, Lead -  HPC Training  [(bio)](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)| SDSC |
 
 
 

@@ -3,6 +3,7 @@
 **SESSION:** 1.2_accounts_login_environments_running_jobs_expanse_portal
 
 **DATE:** June 22, 2022
+
 **PRESENTED BY:** [Mary Thomas](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html )  ( mpthomas  @  ucsd.edu ) 
 
 ### Reading and Presentations:

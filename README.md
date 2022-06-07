@@ -1,20 +1,18 @@
-# ciml-summer-institute-2021
-
-## WebSite:  https://na.eventscloud.com/website/22773/
+# ciml-summer-institute-2022
+## Website: [https://na.eventscloud.com/website/35357/home/](https://na.eventscloud.com/website/35357/home/)
 
 ## Interactive Videos
-* A link to the recorded sessions can be found [here](https://www.sdsc.edu/event_items/202106_cimlsi.html).
+* A link to the recorded sessions will be made available a.s.a.p after the program has concluded 
 * A full catalog of all our trainings at SDSC can be found [here](https://www.sdsc.edu/education_and_training/training_hpc.html#catalog).
 
 ### <a name="top">**Contents:**
 * [Description](#description)
 * [Agenda](#agenda)
-  * [Friday, June 18 – Preparation Day](#agenda-prep)
-  * [Tuesday, June 22 - Cyberinfrastructure & HPC](#agenda-ci-hpc)
-  * [Wednesday, June 23 - Scalable Machine Learning](#agenda-scalable-ml)
-  * [Thursday, June 24 - Machine Learning Hands-on](#agenda-hands-on)
+  * [Wednesday, June 22 – Preparation Day](#agenda-prep)
+  * [Monday, June 27 - HPC & Parallel Concepts](#agenda-hpc-pc)
+  * [Tuesday, June 28 - Scalable Machine Learning](#agenda-scalable-ml)
+  * [Wednesday, June 29 - Deep Learning](#agenda-deep-ml)
 * [Instructors](#instructors)
-* Interactive Video: Will be posted within a few days of the workshop
 * All presentations are located in this repository.
 
 ## Description:<a name="description"></a>
@@ -23,62 +21,55 @@ To work with the material, remember to CLONE this repo.
  
  
 ## Agenda:<a name="agenda"></a>
-All times are in PST.
+All times are in Pacific time.
 
-### Preparation Day (Fri, 06/18/21) <a name="agenda-prep"></a>
-| **TIME (PST)**       |   **TOPIC** | **PRESENTER** |
+### Preparation Day (Wednesday, 06/22/22) <a name="agenda-prep"></a>
+| **TIME (Pacific time)**       |   **TOPIC** | **PRESENTER** |
 | -------------------- |  ----------- | ----------- |
-| 9:00 AM - 9:20 AM	   |  [1.1. Welcome & Orientation](https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/1.1_prep_day_welcome_and_orientation) | [Mary Thomas](#thomas)   |
-| 9:20 AM – 9:50 AM	   |  [1.2. Accounts, Login, Environment, Running Jobs](https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/1.2_accounts_login_environments_running_jobs)  | [Mary Thomas](#thomas)  |
-| 9:50 AM – 10:10 AM   |  [1.3. Running Secure Jupyter Notebooks on Expanse](https://github.com/ciml-org/ciml-summer-institute-2021/blob/main/1.3_running_secure_jupyter_notebooks_on_expanse/MThomas-Running-Secure-Jupyter-Notebooks-Using-the-Satellite-Service-CIMLSI21-PreDay.pdf)| [Mary Thomas](#thomas) & [Marty Kandes](#kandes) |
-| 10:10 AM – 10:30 AM  |  [1.4. Installing your own miniconda & creating conda environments](https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/1.4_installing_your_own_miniconda_creating_conda_environments)  | [Peter Rose](#rose) |
-| 10:30 AM – 10:50 AM	 |  [1.5. Interactive Services Using the Expanse User Portal](https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/1.5_interactive_services_usin_the_expanse_user_portal) | [Subha Sivagnanam](#sivagnanam) & [Marty Kandes](#kandes) |
-| 10:50 AM – 11:00 AM	 |  Q&A, Wrap-up  | all |
+| 9:00 AM - 9:20 AM	   |  [1.1 Welcome & Orientation](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/1.1_prep_day_welcome_and_orientation) | [Mary Thomas](#thomas)   |
+| 9:20 AM – 9:50 AM    |  [1.2 Accounts, Login, Environment, Running Jobs and Logging into Expanse User Portal](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/1.2_accounts_login_environments_running_jobs_expanse_portal) | [Mary Thomas](#thomas)  |
+| 9:50 AM – 10:10 AM   |  [1.3 Running Jupyter Notebooks on Expanse ](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/1.3_running_jupyter_notebooks_expanse)| [Marty Kandes](#kandes) |
+| 10:10 AM – 10:30 AM	 |  Q&A, Wrap-up  | All |
 
 [Back to Top](#top)
 
-### Cyberinfrastructure & HPC (Tues, 06/22/21)<a name="agenda-ci-hpc"></a>
-| **TIME (PST)**       | **TOPIC** | **PRESENTER** |
+ ### HPC & Parallel Concepts (Monday, 06/27/22)<a name="agenda-hpc-pc"></a>
+| **TIME (Pacific time)**       | **TOPIC** | **PRESENTER** |
 | -------------------- | ----------- | ----------- |
-| 8:00 AM - 9:00 AM    | 	[2.1 Welcome, Orientation, & Introductions]( https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/2.1_welcome_orientation_and_introductions ) |  [Mary Thomas](#thomas)  |
-| 9:00 AM – 9:40 AM	   |  [2.2 Introduction HPC/Cyberinfrastructure](https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/2.2_introduction_hpc_and_cyberinfrastructure  )   | [Robert Sinkovits](#sinkovit) |
-| 9:40 AM – 10:20 AM   | 	[2.3 CPU Computing - Hardware, architecture, and software infrastructure](https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/2.3_cpu_computing_hardware_architecture_and_software_infrastructure  )  | [Mary Thomas](#thomas) |
-| 10:20 AM – 11:00 AM	 |  [2.4 GPU Computing - Hardware architecture and software infrastructure]( https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/2.4_gpu_computing_hardware_architecture_and_software_infrastructure ) | [Andreas Goetz](#goetz) |
-| 11:00 AM – 11:45 AM  | Break/Lunch |    |
-| 11:45 PM – 12:25 PM  |  [2.5 Data Management and File Systems]( https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/2.5_data_management_and_file_systems )  | [Manu Shantharam](#shantharam) |
-| 12:25 PM – 1:05 PM   |  [2.6 Introduction to Singularity: Containers for Scientific and High-Performance Computing](https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/2.6_introduction_to_singularit_containers_for_scientific_and_high-performance_computing  )  | [Marty Kandes](#kandes)  |
-| 1:05 PM – 1:35 PM    |  [2.7 Reproducibility in Science and Machine Learning](https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/2.7_reproducibility_in_science_and_machine_learning  ) | [Peter Rose](#rose) |
-| 1:35 PM – 2:00 PM.   | 	Q&A, Wrap-up  |      |
+| 8:00 AM – 8:05 AM    | 	[2.1 Quick Welcome](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/2.1_welcome_orientation_introductions)|  [Mary Thomas](#thomas)  |
+| 8:05 AM – 9:05 AM	   |  [2.2 Introduction HPC/Cyberinfrastructure](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/2.2_introduction_hpc_cyberinfrastructure)| [Robert Sinkovits](#sinkovits) |
+| 9:05 AM – 10:05 AM   | 	[2.3 CPU Computing - Hardware, architecture, and software infrastructure](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/2.3_cpu_computing_hardware_architecture_and_software_infrastructure)| [Mary Thomas](#thomas) |
+| 10:05 AM – 11:35 AM	 |  [2.4 Data Management and File Systems](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/2.4_data_management_and_file_systems) | [Marty Kandes](#kandes) |
+| 11:35 AM – 12:05 PM  | Break/Lunch |    |
+| 12:05 PM – 1:50 PM   |  [2.5  GPU Computing - Hardware architecture and software infrastructure](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/2.5_gpu_computing_hardware_architecture_and_software_infrastructure)| [Andreas Goetz](#goetz) |
+| 12:05 PM – 1:50 PM   |  [Q&A, Wrap-up](need link) | All |
 
 [Back to Top](#top)
 
-### Scalable Machine Learning (Weds, 06/23/21)<a name="agenda-scalable-ml"></a>
-| **TIME (PST)**       | **TOPIC** | **PRESENTER** |
+### Scalable Machine Learning (Tuesday, 06/28/22)<a name="agenda-scalable-ml"></a>
+| **TIME (Pacific time)**       | **TOPIC** | **PRESENTER** |
 | -------------------- | ----------- | ----------- |
-| 8:00 AM – 8:30 AM	   |  [3.1 Machine Learning (ML) Overview](https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/3.1_machine_learning_ml_overview)  | [Mai Nguyen](#nguyen)  |
-| 8:30 AM – 9:15 AM    | 	[3.2 R on High-Performance Computing (HPC)](https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/3.2_r_on_high_performance_computing)  |  [Paul Rodriguez](#rodriguez) |
-| 9:15 AM – 9:30 AM    |  Break  |  |
-| 9:30 AM – 10:45 AM.  |  [3.3	Spark](https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/3.3_spark)  | [Mai Nguyen](#nguyen)  |
-| 10:45 AM – 11:45 AM  |  Break/Lunch |  |
-| 11:45 AM –  12:30 PM |  [3.4 Intro to NN/CNN](https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/3.4_intro_to_nn_cnn)   | [Paul Rodriguez](#rodriguez)  |
-| 12:15 AM – 12:30 AM  |  Break/Lunch |  |
-| 12:30 PM – 1:45 PM 	 |  [3.5 Deep Learning](https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/3.5_deep_learning)  |  [Mai Nguyen](#nguyen) |
-| 1:45 PM – 2:00 PM    | 	3.6 Q&A, Wrap-up  |  |
+| 8:00 AM – 8:05 AM   |  [3.1 Quick Welcome](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.1_quick_welcome_introduction)  | [Mary Thomas](#thomas)  |
+| 8:05 AM – 9:05 AM   | 	[3.2 Introduction to Singularity: Containers for Scientific and <br>High-Performance Computing](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.2_introduction_to_singularity)  |  [Marty Kandes](#kandes)  |
+| 9:05 AM – 10:50 AM  |  [3.3 CONDA Environments and Jupyter Notebook on Expanse: Scalable & <br>Reproducible Data Exploration and ML](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.3_conda_environments_and_juptyer_notebooks_on_expanse) | [Peter Rose](#rose) |
+| 10:50 AM – 11:20 AM |  Break/ Lunch |  |
+| 11:20 AM – 11:35 AM |  [3.4 Machine Learning (ML) Overview](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.4_machine_learning_overview)  | [Mai Nguyen](#nguyen) |
+| 11:35 AM – 12:05 PM |  [3.5 R on HPC Demo](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.5_r_on_hpc_demo) | [Paul Rodriguez](#rodriguez) |
+| 12:05 PM – 2:05 PM  |  [3.6 Spark](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.6_spark)   | [Mai Nguyen](#nguyen) |
 
 [Back to Top](#top)
 
-### Machine Learning Hands-on (Thurs, 06/24/21)<a name="agenda-hands-on"></a>
-| **TIME (PST)** | **TOPIC** | **PRESENTER** |
+### Deep Learning (Wednesday, 06/29/22)<a name="agenda-deep-ml"></a>
+| **TIME (Pacific time)** | **TOPIC** | **PRESENTER** |
 | -------------------- | ----------- | ----------- |
-| 8:00 AM - 9:15 AM	   |  [4.1 Writing and Sharing Computational Analyses in Jupyter Notebooks]( https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/4.1_writing_and_sharing_computational_analyses_in_jupyter_notebooks)  | [Peter Rose](#rose)  |
-| 9:15 AM – 9:30 AM   |  Break |  |
-| 9:30 AM – 10:00 AM    |  [4.2 Spark Hands-on]( https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/4.2_spark_hands_on )  | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez)  |
-| 10:00 AM - 10:30 AM	 |  [4.3 Continue Spark Hands-on Hands-on](https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/4.3_continue_spark_hands_on_hands_on )   | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez)  |
-| 10:30 AM - 11:30 AM	 |  [4.4 Deep Learning Hands-on](https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/4.4_deep_learning_hands_on )  | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez)  |
-| 11:30 AM – 12:30 PM  |  Break/Lunch  |  |
-| 12:30 PM – 1:00 PM   |  [4.5 Deep Learning Transfer Learning Hands-on]( https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/4.5_deep_learning_transfer_learning_hands_on )  |[Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez) |
-| 1:00 PM – 1:45 PM   |  [4.6 Deep Sequence Learning  Hands-on]( https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/4.6_deep_sequence_learning_hands_on )   | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez) |
-| 1:45 PM – 2:00 PM    | 	Q&A, Wrap-up  |  |
+| 8:00 AM – 8:05 AM    |  [4.1 Quick Welcome](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/4.1_quick_welcome_introduction)  | [Mary Thomas](#thomas) |
+| 8:05 AM – 9:05 AM    |  [4.2 Intro to NN/CNN ](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/4.2_intro_to_nn_cnn) | [Paul Rodriguez](#rodriguez) |
+| 9:05 AM – 10:05 AM   |  [4.3 Deep Learning](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/4.3_deep_learning) | [Paul Rodriguez](#rodriguez)  |
+| 10:05 AM – 10:50 AM	 |  [4.4 Deep Learning Layers and Models](need link) | [Mai Nguyen](#nguyen) |
+| 10:55 AM – 11:25 AM	 |  Break/Lunch  |  |
+| 11:25 AM – 12:25 PM   |  [4.5 Deep Learning Transfer Learning](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/4.5_deep_learning_transfer_learning)  | [Mai Nguyen](#nguyen) |
+| 12:25 PM – 1:25 PM    |  [4.6 Deep Learning – Other topics](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/4.6_deep_learning_other_topics)  | [Paul Rodriguez](#rodriguez) |
+| 1:25 PM – 2:00 PM   | Q&A, wrap-up | |
 
 [Back to Top](#top)
 
@@ -88,17 +79,14 @@ All times are in PST.
 
 | **NAME** | **TITLE** | **ORG** |
 | ---------------------------------- | ----------- | ----------- |
-| Andy Goetz<a name="goetz"></a>  |  Director -  Computational Chemistry Laboratory [(bio)](https://www.sdsc.edu/research/researcher_spotlight/goetz_andreas.html) |  SDSC |
+| Andreas Goetz<a name="goetz"></a>  |  Director -  Computational Chemistry Laboratory [(bio)](https://www.sdsc.edu/research/researcher_spotlight/goetz_andreas.html) |  SDSC |
+| Mai Nguyen<a name="nguyen"></a>  |  Lead -  Data Scientist [(bio)](https://www.sdsc.edu/research/researcher_spotlight/nguyen_mai.html) |  SDSC |
 | Marty Kandes<a name="kandes"></a>  |  Computational and Data Science Research Specialist [(bio)](https://www.linkedin.com/in/marty-kandes-b53a34144/) |  SDSC |
-| Mai Nguyen<a name="nguyen"></a>  |  Lead -  Data Analytics [(bio)](https://www.sdsc.edu/research/researcher_spotlight/nguyen_mai.html) |  SDSC |
-| Paul Rodriguez<a name="rodriguez"></a>  |  Research Programmer [(bio)](https://www.coursera.org/instructor/~13847302) |  SDSC |
+| Mary Thomas<a name="thomas"></a>  | Computational Data Scientist, Lead -  HPC Training  [(bio)](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)| SDSC |
+| Paul Rodriguez<a name="rodriguez"></a>  |  Computational Data Scientist [(bio)](https://www.coursera.org/instructor/~13847302) |  SDSC |
 | Peter Rose<a name="rose"></a>  |  Director -  Structural Bioinformatics Laboratory [(bio)](https://www.sdsc.edu/research/researcher_spotlight/rose_peter.html) |  SDSC |
-| Bob Sinkovits<a name="sinkovits"></a>  | Director for Scientific Computing Applications [(bio)](https://www.sdsc.edu/research/researcher_spotlight/sinkovits_robert.html) | SDSC|
-| Manu Shantharam <a name="shantharam"></a> | TITLE [(bio)](TBD) | SDSC |
-| Subha Sivagnanam  <a name="sivagnanam"></a> | TITLE [(bio)](http://users.sdsc.edu/~sivagnan/) | SDSC |
-| Mahidhar Tatineni<a name="tatineni"></a> | Director of User Services [(bio)](https://www.sdsc.edu/research/researcher_spotlight/tatineni_mahidhar.html)   | SDSC |
-| Mary Thomas<a name="thomas"></a>  | Computational Data Scientist, Lead -  HPC Training  [(bio)]( https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)| SDSC |
-| Cindy Wong | Computational and Data Science Research Specialist [(bio)](https://www.linkedin.com/in/nicole-wolter-bbb94a3/)| SDSC |
-| Nicole Wolter | Computational and Data Science Research Specialist [(bio)](https://www.linkedin.com/in/nicole-wolter-bbb94a3/)| SDSC |
+| Robert Sinkovits<a name="sinkovits"></a>  | Director for Scientific Computing Applications [(bio)](https://www.sdsc.edu/research/researcher_spotlight/sinkovits_robert.html) | SDSC|
+
+
 
 [Back to Top](#top)

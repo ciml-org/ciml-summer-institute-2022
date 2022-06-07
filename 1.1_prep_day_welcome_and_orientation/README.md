@@ -3,10 +3,8 @@
 **Session:**  1.1_prep_day_welcome_and_orientation
 
 **Date:** June 22, 2022
-**Presented By:** Mary Thomas (mpthomas at ucsd.edu)
 
-**Presented By:** [Mahidhar Tatineni, SDSC](https://www.sdsc.edu/research/researcher_spotlight/tatineni_mahidhar.html) ( mahidhar  .at.  sdsc.edu )
-
+[Mary Thomas](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html )  ( mpthomas  @  ucsd.edu ) 
 
 ### Reading and Presentations:
 * **Lecture material:**

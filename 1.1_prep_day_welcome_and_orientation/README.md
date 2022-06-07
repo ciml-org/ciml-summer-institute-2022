@@ -1,7 +1,9 @@
-# CIML Summer Institute:  Accounts, Login, Environments, Running Jobs
+# 2022 CIML Summer Institute:   Prep Day and Orientation
 
-## Session:  1.1. Welcome & Orientation 
+## SESSION: 1.1_prep_day_welcome_and_orientation
 
-## June 22, 2022
-## Presented By: Mary Thomas
+## DATE: June 22, 2022
+## PRESENTED BY: Mary Thomas (mpthomas at ucsd.edu)
 
+## Instructions:
+* TBD

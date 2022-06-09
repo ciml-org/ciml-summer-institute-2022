@@ -1,4 +1,4 @@
-# 2022 CIML Summer Institute:   Preparing for the CIML Summer Institute
+# Preparing for the CIML Summer Institute
 
 **SESSION:** 0_preparation
 

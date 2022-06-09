@@ -31,15 +31,16 @@ Note: if you have any difficulties getting set up, please contact Institute staf
 <hr>
 
 ##  Accounts: <a name="accounts"></a>
-
-### Logging onto Expanse training account: <a name="logon-expanse"></a>
-* You will be given an account on the SDSC Expanse computer. Information on the account will be sent to you via email. Please complete the process of activating your account before the institute begins.
+* We have created TWO types of accounts for you: (1) XSEDE and Expanse portal ID; (2) Local Expanse user account.
+* This section will be covered on day 1 (prep day) (1.2 Accounts, Login, Environment, Running Jobs and Logging into Expanse User Portal).
 
 ### Logging onto the Expanse Portal: <a name="logon-portal"></a>
-* This section will be covered on day 1 (prep day) (1.2 Accounts, Login, Environment, Running Jobs and Logging into Expanse User Portal).
-* XSEDE training accounts to access the Expanse portal have already been created for you. Please do not create a new one on your own.
-* Once you have received your expanse account information, please go to https://portal.expanse.sdsc.edu, to confirm your login.
+* XSEDE training accounts to access the Expanse portal have already been created for you. Please do not create a new one on your own. Refer to email fron cwong@sdsc.edu for your XSEDE & Expanse acount "CIML 2022 Summer Institute: Account Set-Up". 
+* Once you have received your XSEDE and Expanse portal ID information, please go to https://portal.expanse.sdsc.edu, to confirm your login.
 
+
+### Logging onto Expanse using your "Local Expanse user account": <a name="logon-expanse"></a>
+* You will be given an account on the SDSC Expanse computer. Information on the account will be sent to you via email. Please complete the process of activating your account before the institute begins.
 [Back to Top](#top)
 <hr>
 

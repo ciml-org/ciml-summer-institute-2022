@@ -36,7 +36,7 @@ Note: if you have any difficulties getting set up, please contact Institute staf
 * You will be given an account on the SDSC Expanse computer. Information on the account will be sent to you via email. Please complete the process of activating your account before the institute begins.
 
 ### Logging onto the Expanse Portal: <a name="logon-portal"></a>
-* This section will be covered on day 1 (1.3 Expanse & Expanse User Portal).
+* This section will be covered on day 1 (prep day) (1.2 Accounts, Login, Environment, Running Jobs and Logging into Expanse User Portal).
 * XSEDE training accounts to access the Expanse portal have already been created for you. Please do not create a new one on your own.
 * Once you have received your expanse account information, please go to https://portal.expanse.sdsc.edu, to confirm your login.
 

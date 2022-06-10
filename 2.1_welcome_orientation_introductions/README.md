@@ -4,6 +4,6 @@
 
 **Date:** June 27, 2022
 
-[Mary Thomas](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html ) ( mpthomas  @  ucsd.edu ) 
+Presented by: [Mary Thomas](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html ) ( mpthomas  @  ucsd.edu ) 
 
 [Back to Top](#top)

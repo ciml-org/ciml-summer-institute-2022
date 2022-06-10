@@ -1,10 +1,9 @@
-# 2022 CIML Summer Institute:   GPU Computing Hardware Architecture and Software Infrastructure
+# 2022 CIML Summer Institute: GPU Computing - Hardware architecture and software infrastructure
 
-## SESSION: 
- 2.5_gpu_computing_hardware_architecture_and_software_infrastructure
+**Session:** 2.5_gpu_computing_hardware_architecture_and_software_infrastructure
 
-**DATE:** June 27, 2022
-**PRESENTED BY:** Andreas Goetz ()
+**Date:** June 27, 2022
 
-## Instructions:
-* TBD
+**Presented by:** [Andreas Goetz](https://www.sdsc.edu/research/researcher_spotlight/goetz_andreas.html) ( awgoetz  @  ucsd.edu ) 
+
+[Back to Top](#top)

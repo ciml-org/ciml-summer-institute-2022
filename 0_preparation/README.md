@@ -13,7 +13,6 @@ To help you get the most out of this workshop, this section contains a set of de
 * [Account Requirements](#accounts) **Mary to update/confirm information as of 6/9**
    * [Logging onto the Expanse Portal](#logon-portal)
    * [Logging onto Expanse training account](#logon-expanse)
-* [Computer and Laptop Set-up](#computer-req)
 * [Remote access via Zoom, Slack, and GitHub](#remote)
   * [Zoom](#zoom)
   * [Slack](#slack)
@@ -53,15 +52,6 @@ Note: if you have any difficulties getting set up, please contact Institute staf
 
 ### Logging onto Expanse using your "Local Expanse user account": <a name="logon-expanse"></a>
 * You will be given an account on the SDSC Expanse computer. Information on the account will be sent to you via email. Please complete the process of activating your account before the institute begins.
-[Back to Top](#top)
-<hr>
-
- ## Computer and Laptop Set-up: <a name="computer-req"></a>
-* We recommend a second screen for the hands-on sessions. The first to view the presentation, the second for hands-on.
-* After you access your account information, confirm that you can login (SSH) to Expanse using the device you plan to use during the CIML Summer Institute (laptop, workstation, etc...).  Detailed instructions on connecting to Expanse using SSH can be found [here](https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/connecting-to-hpc-systems).  
-
-It has been suggested that a second monitor may be helpful during online instruction.  While one monitor could be used to follow instruction, the other for the hands-on.  Additionally, the use of a mouse may be beneficial as well during some sessions.
-
 [Back to Top](#top)
 <hr>
 

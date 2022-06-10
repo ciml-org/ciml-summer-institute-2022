@@ -2,6 +2,7 @@
 
 ## SESSION: 2.4_data_management_and_file_systems
 
-**DATE:** June 27, 2022
+Date: June 27, 2022
+
 Presented by: [Marty Kandes](https://www.linkedin.com/in/marty-kandes-b53a34144/) ( mkandes  @  sdsc.edu )
 

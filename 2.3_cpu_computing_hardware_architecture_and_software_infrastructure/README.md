@@ -1,10 +1,9 @@
-# 2022 CIML Summer Institute:   CPU Computing Hardware Architecture and Software Infrastructure
+# 2022 CIML Summer Institute: CPU Computing - Hardware, architecture, and software infrastructure
 
-## SESSION:
- 2.3_cpu_computing_hardware_architecture_and_software_infrastructure
+**Session:**  2.3_cpu_computing_hardware_architecture_and_software_infrastructure
 
-**DATE:** June 27, 2022
-**PRESENTED BY:** Mary Thomas   ( mpthomas  @  ucsd.edu )
+**Date:** June 27, 2022
 
-## Instructions:
-* TBD
+Instructor: [Mary Thomas](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html) (mpthomas @ucsd.edu) 
+
+[Back to Top](#top)

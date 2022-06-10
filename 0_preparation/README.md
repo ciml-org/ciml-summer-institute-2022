@@ -8,17 +8,29 @@ You will get the most out of the CIML Summer Institute if you are prepared prior
 To help you get the most out of this workshop, this section contains a set of detailed start-up instructions, beginning with setting up your account and connecting to Expanse, to configuring your laptop for running visualization software. Please read the documents and exercises carefully, and complete all necessary steps before event. Feel free to ask questions or if you have any problems with the start-up tasks
 
 <a name="top">Contents
+* [Other BasicSkills](#other-skills)
 * [Expanse User Guide](#expanse-guide)
-* [Computer and Laptop Set-up](#computer-req)
 * [Account Requirements](#accounts)
    * [Logging onto the Expanse Portal](#logon-portal)
    * [Logging onto Expanse training account](#logon-expanse)
+* [Computer and Laptop Set-up](#computer-req)
 * [Remote access via Zoom, Slack, and GitHub](#remote)
   * [Zoom](#zoom)
   * [Slack](#slack)
   * [Github Account](#github)
-* [Other BasicSkills](#other-skills)
 
+
+### Basic Skills <a name="other-skills"></a> - mary to clean up and confirm the details below.
+See the [Basic HPC Skills repo](https://github.com/sdsc-hpc-training-org/basic_skills)
+https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/basic_linux_skills
+
+* [Connecting to HPC Systems](https://github.com/sdsc-hpc-training-org/hpc-security/blob/master/connecting-to-hpc-systems/connect-to-expanse.md)
+* [Basic_Linux_Skills](https://github.com/sdsc/sdsc-summer-institute-2020/tree/master/0_preparation/basic_linux_skills)
+* [Interactive Computing](https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/interactive_computing)
+* [How to Run Notebooks on Expanse](https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/how_to_run_notebooks_on_expanse)
+
+[Back to Top](#top)
+<hr>
 
 ## Expanse User Guide <a name="expanse-guide"></a>
 Please read the Expanse user guide and familiarize yourself with the hardware, file systems, batch job submission, compilers and modules. The guide can be found here:
@@ -69,18 +81,6 @@ To ensure the security of our Zoom links, details will be sent to all participan
 
 ### Github: <a name="github"></a>
 * Most of the training material will be located on the CIML Summer Institute GitHub repo and one of the Thursday hands-on sessions will require a GitHub account. * If you do not already have one, you can create a free personal GitHub account [here](https://docs.github.com/en/github/getting-started-with-github/signing-up-for-github/signing-up-for-a-new-github-account).   
-
-[Back to Top](#top)
-<hr>
-
-### Basic Skills <a name="other-skills"></a> - mary to clean up and confirm the details below.
-See the [Basic HPC Skills repo](https://github.com/sdsc-hpc-training-org/basic_skills)
-https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/basic_linux_skills
-
-* [Connecting to HPC Systems](https://github.com/sdsc-hpc-training-org/hpc-security/blob/master/connecting-to-hpc-systems/connect-to-expanse.md)
-* [Basic_Linux_Skills](https://github.com/sdsc/sdsc-summer-institute-2020/tree/master/0_preparation/basic_linux_skills)
-* [Interactive Computing](https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/interactive_computing)
-* [How to Run Notebooks on Expanse](https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/how_to_run_notebooks_on_expanse)
 
 [Back to Top](#top)
 <hr>

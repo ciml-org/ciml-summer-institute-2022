@@ -8,9 +8,9 @@ You will get the most out of the CIML Summer Institute if you are prepared prior
 To help you get the most out of this workshop, this section contains a set of detailed start-up instructions, beginning with setting up your account and connecting to Expanse, to configuring your laptop for running visualization software. Please read the documents and exercises carefully, and complete all necessary steps before event. Feel free to ask questions or if you have any problems with the start-up tasks
 
 <a name="top">Contents
-* [Other BasicSkills](#other-skills)
-* [Expanse User Guide](#expanse-guide)
-* [Account Requirements](#accounts)
+* [Other BasicSkills](#other-skills) **Mary to update/confirm information as of 6/9**
+* [Expanse User Guide](#expanse-guide) **Mary to update/confirm information as of 6/9**
+* [Account Requirements](#accounts) **Mary to update/confirm information as of 6/9**
    * [Logging onto the Expanse Portal](#logon-portal)
    * [Logging onto Expanse training account](#logon-expanse)
 * [Computer and Laptop Set-up](#computer-req)

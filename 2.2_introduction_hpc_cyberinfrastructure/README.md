@@ -4,7 +4,6 @@
 
 **DATE:** June 27, 2022
 
-Presented by: [Robert Sinkovits](https://www.sdsc.edu/research/researcher_spotlight/sinkovits_robert.html) ( sinkovit  @  sdsc.edu )
+**Presented by:** [Robert Sinkovits](https://www.sdsc.edu/research/researcher_spotlight/sinkovits_robert.html) ( sinkovit  @  sdsc.edu )
 
-## Instructions:
-* TBD
+[Back to Top](#top)

@@ -70,7 +70,9 @@ To ensure the security of our Zoom links, details will be sent to all participan
 * When setting up your “display name” on Zoom & Slack, please list your FIRST name, LAST name, and institution (i.e., Jane Doe (SDSC))
 
 ### Github: <a name="github"></a>
-* Most of the training material will be located on the CIML Summer Institute GitHub repo and one of the Thursday hands-on sessions will require a GitHub account. * If you do not already have one, you can create a free personal GitHub account [here](https://docs.github.com/en/github/getting-started-with-github/signing-up-for-github/signing-up-for-a-new-github-account).   
+* Most of the training material will be located on the CIML Summer Institute GitHub repo and one of the Thursday hands-on sessions will require a GitHub account. 
+* If you do not already have one, you can create a free personal GitHub account [here](https://docs.github.com/en/github/getting-started-with-github/signing-up-for-github/signing-up-for-a-new-github-account).  
+* For basic GitHub usage on SDSC systems, see here: https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/using_github
 
 [Back to Top](#top)
 <hr>

@@ -97,9 +97,9 @@ To ensure the security of our Zoom links, details will be sent to all participan
 * We will also be using Slack as our main platform for announcements, where participants can communicate and ask for help. Download ([Windows](https://slack.com/downloads/windows), [MacOS](https://slack.com/downloads/mac), or [Linux](https://slack.com/downloads/linux)) and [get started](https://slack.com/help/articles/218080037-Getting-started-for-new-Slack-users). Zoom chat will be disabled. Make sure to turn on your notifications to receive alerts. 
   
 You should have access to THREE channels:
-*General: This channel will be used for announcements, team-wide conversations, and any questions during sessions. For assistance with your account, go to #help-desk channel 
-*Help-desk: This channel will be used to troubleshoot any issues related to account access or login 
-*Introduce-yourself: With everyone attending virtually, getting the opportunity to introduce each other is hard. Please use this space to introduce yourself, so we can get to know each other.
+* General: This channel will be used for announcements, team-wide conversations, and any questions during sessions. For assistance with your account, go to #help-desk channel 
+* Help-desk: This channel will be used to troubleshoot any issues related to account access or login 
+* Introduce-yourself: With everyone attending virtually, getting the opportunity to introduce each other is hard. Please use this space to introduce yourself, so we can get to know each other.
   
 * When setting up your “display name” on Zoom & Slack, please list your FIRST name, LAST name, and institution (i.e., Jane Doe (SDSC))
 

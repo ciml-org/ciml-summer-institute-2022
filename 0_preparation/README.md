@@ -76,7 +76,7 @@ In particular, we suggest that you review the following:
 ##  Remote access via Zoom, Slack, and GitHub <a name="remote"></a>
 
 * For the institute, we will coordinate our remote access via Zoom, Slack, and GitHub
-* When setting up your “display name” on Zoom & Slack, please list your FIRST name, LAST name, and institution (i.e., Jane Doe (SDSC))
+* When setting up your “display name” on both Zoom & Slack, please use your FIRST name, LAST name, and institution (i.e., Harry Potter (SDSC)).
 
 ### Zoom:  <a name="zoom"></a>
 * You will need to install the latest [Zoom](https://zoom.us/download) client, which is available for Windows, MacOS and Linux. Once installed, you can test your microphone and camera interface with Zoom [here](https://zoom.us/test). You can find more information on Zoom system requirements, including bandwidth requirements [here](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux).  
@@ -90,8 +90,6 @@ Connection details were sent via as a calendar invite to all CIML participants. 
 * **General**: This channel will be used for announcements, team-wide conversations, and any questions during sessions. For assistance with your account, go to #help-desk channel 
 * **Help-desk**: This channel will be used to troubleshoot any issues related to account access or login 
 * **Introduce-yourself**: With everyone attending virtually, getting the opportunity to introduce each other is hard. Please use this space to introduce yourself, so we can get to know each other.
-  
-* **When setting up your “display name” on both Zoom & Slack, please use your FIRST name, LAST name, and institution (i.e., Harry Potter (SDSC)). **
 
 ### Github: <a name="github"></a>
 * Training material will be located on the CIML Summer Institute [GitHub repo](https://github.com/ciml-org/ciml-summer-institute-2022) and one of the Tuesday hands-on sessions will require a GitHub account.

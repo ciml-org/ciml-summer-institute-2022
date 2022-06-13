@@ -11,7 +11,7 @@ To help you get the most out of this workshop, this section contains a set of de
 * [Expanse User Guide](#expanse-guide) **Mary to update/confirm information as of 6/9: DONE 6/13/22**
 * [HPC Systems Accounts](#accounts) **Mary to update/confirm information as of 6/9: DONE 6/13/22 **
    * [Logging onto the Expanse Portal](#logon-portal)
-   * [Logging onto Expanse training account](#logon-expanse)
+   * [Logging onto Expanse HPC Cluster](#logon-expanse)
 * [Basic Skills](#basic-skills) **Mary to update/confirm information as of 6/9:  DONE 6/13/22**
 * [Remote access via Zoom, Slack, and GitHub](#remote)
   * [Zoom](#zoom)

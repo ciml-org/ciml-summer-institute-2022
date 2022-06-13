@@ -9,7 +9,6 @@ To help you get the most out of this workshop, this section contains a set of de
 
 <a name="top">Contents
 * [Expanse User Guide](#expanse-guide)
-* [Software Requirements](software)
 * [HPC Systems Accounts](#accounts)
    * [Logging onto the Expanse Portal](#logon-portal)
    * [Logging onto Expanse HPC Cluster](#logon-expanse)
@@ -27,14 +26,6 @@ Please read the Expanse user guide and familiarize yourself with the hardware, f
 
 Note: if you have any difficulties getting set up, please contact Institute staff at consult@sdsc.edu.
 
-[Back to Top](#top)
-<hr>
-  
-## Software Requirements <a name="software"></a>
-Some sessions require that customized software be installed on your laptop. Please perform the following software installations instructions which can be found here:  https://github.com/ciml-org/ciml-summer-institute-2022/blob/main/0_preparation/software_requirements.md
-Note: Several of the preparation activities will provide information and guidance on how to install the required software components.
-
- 
   [Back to Top](#top)
 <hr>
   
@@ -52,10 +43,8 @@ Note: Several of the preparation activities will provide information and guidanc
 ### Logging onto Expanse using your "Local Expanse user account": <a name="logon-expanse"></a>
 * You will be given an account on the SDSC Expanse computer. Information on the account will be sent to you via email. Please complete the process of activating your account before the institute begins. To log onto the Expase cluster, see these instructions: https://github.com/sdsc-hpc-training-org/hpc-security/blob/master/connecting-to-hpc-systems/connect-to-expanse.md
 
-  
 [Back to Top](#top)
 <hr>
-
   
 ### Basic Skills <a name="basic-skills"></a>
 There are several basic skills needed in order to access and run jobs on HPC systems. There are two GitHub repositories with several mini-tutorials that you can access:

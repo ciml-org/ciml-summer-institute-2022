@@ -1,11 +1,9 @@
 # 2022 CIML Summer Institute:   Welcome, Orientation, & Introductions
 
-## Session:
-2.1_welcome_orientation_introductions
+**Session:**  2.1_welcome_orientation_introductions
 
-**DATE:** June 27, 2022
+**Date:** June 27, 2022
 
-**PRESENTED BY:** Mary Thomas   ( mpthomas  @  ucsd.edu )
+**Presented by:** [Mary Thomas](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html ) ( mpthomas  @  ucsd.edu ) 
 
-## Instructions:
-* N/A
+[Back to Top](#top)

@@ -13,7 +13,6 @@ To help you get the most out of this workshop, this section contains a set of de
 * [HPC Systems Accounts](#accounts)
    * [Logging onto the Expanse Portal](#logon-portal)
    * [Logging onto Expanse HPC Cluster](#logon-expanse)
-* [Training Account Confifurations](#config)
 * [Basic Skills](#basic-skills)
 * [Remote access via Zoom, Slack, and GitHub](#remote)
   * [Zoom](#zoom)
@@ -35,16 +34,7 @@ Note: if you have any difficulties getting set up, please contact Institute staf
 Some sessions require that customized software be installed on your laptop. Please perform the following software installations instructions which can be found here:  https://github.com/ciml-org/ciml-summer-institute-2022/blob/main/0_preparation/software_requirements.md
 Note: Several of the preparation activities will provide information and guidance on how to install the required software components.
 
-  
-[Back to Top](#top)
-<hr>
-  
-## Training Account Confifurations <a name="config"></a>
-Each member of the class, and instructors have a training account with a default user environment customized with the right paths and software paths, including the conda/mininconda software. This document will help you figure out to safely perform additional configurations: https://github.com/ciml-org/ciml-summer-institute-2022/blob/main/0_preparation/training_account_configurations.md
-
-
-  https://github.com/ciml-org/ciml-summer-institute-2022/blob/main/0_preparation/training_account_configurations.md
-
+ 
   [Back to Top](#top)
 <hr>
   

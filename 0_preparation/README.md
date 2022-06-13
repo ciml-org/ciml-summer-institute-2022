@@ -8,18 +8,44 @@ You will get the most out of the CIML Summer Institute if you are prepared prior
 To help you get the most out of this workshop, this section contains a set of detailed start-up instructions, beginning with setting up your account and connecting to Expanse, to configuring your laptop for running visualization software. Please read the documents and exercises carefully, and complete all necessary steps before event. Feel free to ask questions or if you have any problems with the start-up tasks
 
 <a name="top">Contents
-* [Other BasicSkills](#other-skills) **Mary to update/confirm information as of 6/9**
-* [Expanse User Guide](#expanse-guide) **Mary to update/confirm information as of 6/9**
-* [Account Requirements](#accounts) **Mary to update/confirm information as of 6/9**
+* [Expanse User Guide](#expanse-guide) **Mary to update/confirm information as of 6/9: DONE 6/13/22**
+* [HPC Systems Accounts](#accounts) **Mary to update/confirm information as of 6/9: DONE 6/13/22 **
    * [Logging onto the Expanse Portal](#logon-portal)
    * [Logging onto Expanse training account](#logon-expanse)
+* [Basic Skills](#basic-skills) **Mary to update/confirm information as of 6/9:  DONE 6/13/22**
 * [Remote access via Zoom, Slack, and GitHub](#remote)
   * [Zoom](#zoom)
   * [Slack](#slack)
   * [Github Account](#github)
 
 
-### Basic Skills <a name="other-skills"></a> - mary to clean up and confirm the details below.
+## Expanse User Guide <a name="expanse-guide"></a>
+Please read the Expanse user guide and familiarize yourself with the hardware, file systems, batch job submission, compilers and modules. The guide can be found here:
+* [Expanse User Guide](https://www.sdsc.edu/support/user_guides/expanse.html)
+* Expanse Landing Page: https://expanse.sdsc.edu
+
+Note: if you have any difficulties getting set up, please contact Institute staff at consult@sdsc.edu.
+
+[Back to Top](#top)
+<hr>
+
+##  HPC Systems Accounts: <a name="accounts"></a>
+* We have created TWO types of accounts for you: 
+  * **(1) XSEDE and Expanse portal ID**
+  * **(2) Local Expanse user account**
+* Note: The two topics below will be covered on the Preparation day (1.2 Accounts, Login, Environment, Running Jobs and Logging into Expanse User Portal).
+
+### Logging onto the Expanse Portal: <a name="logon-portal"></a>
+* XSEDE training accounts to access the Expanse portal have already been created for you. Please do not create a new one on your own. See email sent from cwong@sdsc.edu for your XSEDE & Expanse acount with the subject link "CIML 2022 Summer Institute: Account Set-Up". 
+* Once you have received your XSEDE and Expanse portal ID information, go to https://portal.expanse.sdsc.edu, to confirm your login.
+
+### Logging onto Expanse using your "Local Expanse user account": <a name="logon-expanse"></a>
+* You will be given an account on the SDSC Expanse computer. Information on the account will be sent to you via email. Please complete the process of activating your account before the institute begins.
+[Back to Top](#top)
+<hr>
+
+  
+### Basic Skills <a name="basic-skills"></a> - mary to clean up and confirm the details below.
 See the [Basic HPC Skills repo](https://github.com/sdsc-hpc-training-org/basic_skills)
 https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/basic_linux_skills
 
@@ -28,30 +54,6 @@ https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/basic_linux_sk
 * [Interactive Computing](https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/interactive_computing)
 * [How to Run Notebooks on Expanse](https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/how_to_run_notebooks_on_expanse)
 
-[Back to Top](#top)
-<hr>
-
-## Expanse User Guide <a name="expanse-guide"></a>
-Please read the Expanse user guide and familiarize yourself with the hardware, file systems, batch job submission, compilers and modules. The guide can be found here:
-* [Expanse User Guide](https://www.sdsc.edu/support/user_guides/expanse.html)
-
-Note: if you have any difficulties getting set up, please contact Institute staff at consult@sdsc.edu.
-
-[Back to Top](#top)
-<hr>
-
-##  Accounts: <a name="accounts"></a>
-* We have created TWO types of accounts for you: 
-  * **(1) XSEDE and Expanse portal ID**
-  * **(2) Local Expanse user account**
-* This section will be covered on the Preparation day (1.2 Accounts, Login, Environment, Running Jobs and Logging into Expanse User Portal).
-
-### Logging onto the Expanse Portal: <a name="logon-portal"></a>
-* XSEDE training accounts to access the Expanse portal have already been created for you. Please do not create a new one on your own. See email sent from cwong@sdsc.edu for your XSEDE & Expanse acount with the subject link "CIML 2022 Summer Institute: Account Set-Up". 
-* Once you have received your XSEDE and Expanse portal ID information, go to https://portal.expanse.sdsc.edu, to confirm your login.
-
-### Logging onto Expanse using your "Local Expanse user account": <a name="logon-expanse"></a>
-* You will be given an account on the SDSC Expanse computer. Information on the account will be sent to you via email. Please complete the process of activating your account before the institute begins.
 [Back to Top](#top)
 <hr>
 

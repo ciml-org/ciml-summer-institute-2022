@@ -6,4 +6,12 @@
 
 **Presented by:** [Andreas Goetz](https://www.sdsc.edu/research/researcher_spotlight/goetz_andreas.html) ( awgoetz  @  ucsd.edu ) 
 
+### Reading and Presentations:
+* **Lecture material:**
+   * Presentation Slides: will be made available closer to the session
+* **Video Recording:** will be made available as soon as possible
+* **Source Code/Examples:** [If applicable]()
+
+### TASKS: None at this time.
+
 [Back to Top](#top)

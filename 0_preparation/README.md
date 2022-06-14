@@ -53,7 +53,7 @@ There are several basic skills needed in order to access and run jobs on HPC sys
 
 In particular, we suggest that you review the following: 
 * Connecting to Expanse: https://github.com/sdsc-hpc-training-org/hpc-security/blob/master/connecting-to-hpc-systems/connect-to-expanse.md
-* Basic_Linux_Skills on Expanse: [https://github.com/sdsc/sdsc-summer-institute-2020/tree/master/0_preparation/basic_linux_skills](https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/basic_linux_skills_expanse)
+* Basic_Linux_Skills on Expanse: https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/basic_linux_skills_expanse
   
 **TBD**
 * Interactive Computing](https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/interactive_computing)

@@ -57,7 +57,7 @@ In particular, we suggest that you review the following:
   
 **TBD**
 * Interactive Computing](https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/interactive_computing)
-* How to Run Notebooks on Expanse](https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/how_to_run_notebooks_on_expanse)
+* How to Run Notebooks on Expanse: https://github.com/mkandes/galyleo
 
 [Back to Top](#top)
 <hr>

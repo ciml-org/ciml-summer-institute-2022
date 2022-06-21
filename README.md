@@ -27,7 +27,7 @@ All times are in Pacific time.
 | **TIME (Pacific time)**       |   **TOPIC** | **PRESENTER** |
 | -------------------- |  ----------- | ----------- |
 | 9:00 AM - 9:20 AM	   |  [1.1 Welcome & Orientation](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/1.1_prep_day_welcome_and_orientation) | [Mary Thomas](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)   |
-| 9:20 AM – 9:50 AM    |  [1.2 Accounts, Login, Environment, Running Jobs and Logging into Expanse User Portal](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/1.2_accounts_login_environments_running_jobs_expanse_portal) | [Mary Thomas(https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)  |
+| 9:20 AM – 9:50 AM    |  [1.2 Accounts, Login, Environment, Running Jobs and Logging into Expanse User Portal](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/1.2_accounts_login_environments_running_jobs_expanse_portal) | [Mary Thomas](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)  |
 | 9:50 AM – 10:10 AM   |  [1.3 Running Jupyter Notebooks on Expanse ](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/1.3_running_jupyter_notebooks_expanse)| [Marty Kandes](#kandes) |
 | 10:10 AM – 10:30 AM	 |  Q&A, Wrap-up  | All |
 

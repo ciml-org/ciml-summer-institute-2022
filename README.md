@@ -51,11 +51,11 @@ All times are in Pacific time.
 | -------------------- | ----------- | ----------- |
 | 8:00 AM – 8:05 AM   |  [3.1 Quick Welcome](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.1_quick_welcome_introduction)  | [Mary Thomas](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)  |
 | 8:05 AM – 9:05 AM   | 	[3.2 Introduction to Singularity: Containers for Scientific and <br>High-Performance Computing](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.2_introduction_to_singularity)  |  [Marty Kandes](https://www.linkedin.com/in/marty-kandes-b53a34144/)  |
-| 9:05 AM – 10:50 AM  |  [3.3 CONDA Environments and Jupyter Notebook on Expanse: Scalable & <br>Reproducible Data Exploration and ML](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.3_conda_environments_and_juptyer_notebooks_on_expanse) | [Peter Rose](#rose) |
+| 9:05 AM – 10:50 AM  |  [3.3 CONDA Environments and Jupyter Notebook on Expanse: Scalable & <br>Reproducible Data Exploration and ML](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.3_conda_environments_and_juptyer_notebooks_on_expanse) | [Peter Rose](https://www.sdsc.edu/research/researcher_spotlight/rose_peter.html) |
 | 10:50 AM – 11:20 AM |  Break/ Lunch |  |
-| 11:20 AM – 11:35 AM |  [3.4 Machine Learning (ML) Overview](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.4_machine_learning_overview)  | [Mai Nguyen](#nguyen) |
-| 11:35 AM – 12:05 PM |  [3.5 R on HPC Demo](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.5_r_on_hpc_demo) | [Paul Rodriguez](#rodriguez) |
-| 12:05 PM – 2:05 PM  |  [3.6 Spark](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.6_spark)   | [Mai Nguyen](#nguyen) |
+| 11:20 AM – 11:35 AM |  [3.4 Machine Learning (ML) Overview](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.4_machine_learning_overview)  | [Mai Nguyen](https://www.sdsc.edu/research/researcher_spotlight/nguyen_mai.html) |
+| 11:35 AM – 12:05 PM |  [3.5 R on HPC Demo](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.5_r_on_hpc_demo) | [Paul Rodriguez](https://www.coursera.org/instructor/~13847302) |
+| 12:05 PM – 2:05 PM  |  [3.6 Spark](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.6_spark)   | [Mai Nguyen](https://www.sdsc.edu/research/researcher_spotlight/nguyen_mai.html) |
 
 [Back to Top](#top)
 
@@ -63,28 +63,12 @@ All times are in Pacific time.
 | **TIME (Pacific time)** | **TOPIC** | **PRESENTER** |
 | -------------------- | ----------- | ----------- |
 | 8:00 AM – 8:05 AM    |  [4.1 Quick Welcome](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/4.1_quick_welcome_introduction)  | [Mary Thomas](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html) |
-| 8:05 AM – 9:05 AM    |  [4.2 Intro to NN/CNN ](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/4.2_intro_to_nn_cnn) | [Paul Rodriguez](#rodriguez) |
-| 9:05 AM – 10:05 AM   |  [4.3 Deep Learning](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/4.3_deep_learning) | [Paul Rodriguez](#rodriguez)  |
-| 10:05 AM – 10:50 AM	 |  [4.4 Deep Learning Layers and Models](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/4.4_deep_learning_layers_and_models) | [Mai Nguyen](#nguyen) |
+| 8:05 AM – 9:05 AM    |  [4.2 Intro to NN/CNN ](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/4.2_intro_to_nn_cnn) | [Paul Rodriguez](https://www.coursera.org/instructor/~13847302) |
+| 9:05 AM – 10:05 AM   |  [4.3 Deep Learning](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/4.3_deep_learning) | [Paul Rodriguez](https://www.coursera.org/instructor/~13847302)  |
+| 10:05 AM – 10:50 AM	 |  [4.4 Deep Learning Layers and Models](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/4.4_deep_learning_layers_and_models) | [Mai Nguyen](https://www.sdsc.edu/research/researcher_spotlight/nguyen_mai.html) |
 | 10:55 AM – 11:25 AM	 |  Break/Lunch  |  |
-| 11:25 AM – 12:25 PM   |  [4.5 Deep Learning Transfer Learning](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/4.5_deep_learning_transfer_learning)  | [Mai Nguyen](#nguyen) |
-| 12:25 PM – 1:25 PM    |  [4.6 Deep Learning – Other topics](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/4.6_deep_learning_other_topics)  | [Paul Rodriguez](#rodriguez) |
+| 11:25 AM – 12:25 PM   |  [4.5 Deep Learning Transfer Learning](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/4.5_deep_learning_transfer_learning)  | [Mai Nguyen](https://www.sdsc.edu/research/researcher_spotlight/nguyen_mai.html) |
+| 12:25 PM – 1:25 PM    |  [4.6 Deep Learning – Other topics](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/4.6_deep_learning_other_topics)  | [Paul Rodriguez](https://www.coursera.org/instructor/~13847302) |
 | 1:25 PM – 2:00 PM   | Q&A, wrap-up | |
-
-[Back to Top](#top)
-
-<hr>
-
-## Instructors<a name="instructors"></a>
-
-| **NAME** | **TITLE** | **ORG** |
-| ---------------------------------- | ----------- | ----------- |
-| Marty Kandes<a name="kandes"></a>  |  Computational and Data Science Research Specialist [(bio)](https://www.linkedin.com/in/marty-kandes-b53a34144/) |  SDSC |
-| Mai Nguyen<a name="nguyen"></a>  |  Lead -  Data Scientist [(bio)](https://www.sdsc.edu/research/researcher_spotlight/nguyen_mai.html) |  SDSC |
-| Paul Rodriguez<a name="rodriguez"></a>  |  Computational Data Scientist [(bio)](https://www.coursera.org/instructor/~13847302) |  SDSC |
-| Peter Rose<a name="rose"></a>  |  Director -  Structural Bioinformatics Laboratory [(bio)](https://www.sdsc.edu/research/researcher_spotlight/rose_peter.html) |  SDSC |
-
-
-
 
 [Back to Top](#top)

@@ -28,7 +28,7 @@ All times are in Pacific time.
 | -------------------- |  ----------- | ----------- |
 | 9:00 AM - 9:20 AM	   |  [1.1 Welcome & Orientation](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/1.1_prep_day_welcome_and_orientation) | [Mary Thomas](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)   |
 | 9:20 AM – 9:50 AM    |  [1.2 Accounts, Login, Environment, Running Jobs and Logging into Expanse User Portal](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/1.2_accounts_login_environments_running_jobs_expanse_portal) | [Mary Thomas](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)  |
-| 9:50 AM – 10:10 AM   |  [1.3 Running Jupyter Notebooks on Expanse ](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/1.3_running_jupyter_notebooks_expanse)| [Marty Kandes](#kandes) |
+| 9:50 AM – 10:10 AM   |  [1.3 Running Jupyter Notebooks on Expanse ](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/1.3_running_jupyter_notebooks_expanse)| [Marty Kandes](https://www.linkedin.com/in/marty-kandes-b53a34144/) |
 | 10:10 AM – 10:30 AM	 |  Q&A, Wrap-up  | All |
 
 [Back to Top](#top)
@@ -39,9 +39,9 @@ All times are in Pacific time.
 | 8:00 AM – 8:05 AM    | 	[2.1 Quick Welcome](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/2.1_welcome_orientation_introductions)|  [Mary Thomas](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)  |
 | 8:05 AM – 9:05 AM	   |  [2.2 Introduction HPC/Cyberinfrastructure](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/2.2_introduction_hpc_cyberinfrastructure)| [Robert Sinkovits](https://www.sdsc.edu/research/researcher_spotlight/sinkovits_robert.html) |
 | 9:05 AM – 10:05 AM   | 	[2.3 CPU Computing - Hardware, architecture, and software infrastructure](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/2.3_cpu_computing_hardware_architecture_and_software_infrastructure)| [Mary Thomas](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html) |
-| 10:05 AM – 11:35 AM	 |  [2.4 Data Management and File Systems](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/2.4_data_management_and_file_systems) | [Marty Kandes](#kandes) |
+| 10:05 AM – 11:35 AM	 |  [2.4 Data Management and File Systems](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/2.4_data_management_and_file_systems) | [Marty Kandes](https://www.linkedin.com/in/marty-kandes-b53a34144/) |
 | 11:35 AM – 12:05 PM  | Break/Lunch |    |
-| 12:05 PM – 1:50 PM   |  [2.5  GPU Computing - Hardware architecture and software infrastructure](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/2.5_gpu_computing_hardware_architecture_and_software_infrastructure)| [Andreas Goetz](#goetz) |
+| 12:05 PM – 1:50 PM   |  [2.5  GPU Computing - Hardware architecture and software infrastructure](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/2.5_gpu_computing_hardware_architecture_and_software_infrastructure)| [Andreas Goetz](https://www.sdsc.edu/research/researcher_spotlight/goetz_andreas.html) |
 | 12:05 PM – 1:50 PM   |  [Q&A, Wrap-up](need link) | All |
 
 [Back to Top](#top)
@@ -50,7 +50,7 @@ All times are in Pacific time.
 | **TIME (Pacific time)**       | **TOPIC** | **PRESENTER** |
 | -------------------- | ----------- | ----------- |
 | 8:00 AM – 8:05 AM   |  [3.1 Quick Welcome](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.1_quick_welcome_introduction)  | [Mary Thomas](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)  |
-| 8:05 AM – 9:05 AM   | 	[3.2 Introduction to Singularity: Containers for Scientific and <br>High-Performance Computing](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.2_introduction_to_singularity)  |  [Marty Kandes](#kandes)  |
+| 8:05 AM – 9:05 AM   | 	[3.2 Introduction to Singularity: Containers for Scientific and <br>High-Performance Computing](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.2_introduction_to_singularity)  |  [Marty Kandes](https://www.linkedin.com/in/marty-kandes-b53a34144/)  |
 | 9:05 AM – 10:50 AM  |  [3.3 CONDA Environments and Jupyter Notebook on Expanse: Scalable & <br>Reproducible Data Exploration and ML](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.3_conda_environments_and_juptyer_notebooks_on_expanse) | [Peter Rose](#rose) |
 | 10:50 AM – 11:20 AM |  Break/ Lunch |  |
 | 11:20 AM – 11:35 AM |  [3.4 Machine Learning (ML) Overview](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.4_machine_learning_overview)  | [Mai Nguyen](#nguyen) |
@@ -79,7 +79,6 @@ All times are in Pacific time.
 
 | **NAME** | **TITLE** | **ORG** |
 | ---------------------------------- | ----------- | ----------- |
-| Andreas Goetz<a name="goetz"></a>  |  Director -  Computational Chemistry Laboratory [(bio)](https://www.sdsc.edu/research/researcher_spotlight/goetz_andreas.html) |  SDSC |
 | Marty Kandes<a name="kandes"></a>  |  Computational and Data Science Research Specialist [(bio)](https://www.linkedin.com/in/marty-kandes-b53a34144/) |  SDSC |
 | Mai Nguyen<a name="nguyen"></a>  |  Lead -  Data Scientist [(bio)](https://www.sdsc.edu/research/researcher_spotlight/nguyen_mai.html) |  SDSC |
 | Paul Rodriguez<a name="rodriguez"></a>  |  Computational Data Scientist [(bio)](https://www.coursera.org/instructor/~13847302) |  SDSC |

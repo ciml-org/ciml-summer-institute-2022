@@ -16,7 +16,7 @@
 
 ### TASK 1:
 
-* Follow the PDF as needed.
+* Follow the presentation slides as needed.
 * To learn more: follow self guided tutorial here: https://hpc-training.sdsc.edu/expanse-101/
 
 

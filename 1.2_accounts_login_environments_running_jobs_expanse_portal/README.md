@@ -9,6 +9,7 @@
 ### Reading and Presentations:
 * **Lecture material:**
    * Presentation Slides:
+     * [Access, accounts, modules & Envs](https://github.com/ciml-org/ciml-summer-institute-2022/blob/main/1.2_accounts_login_environments_running_jobs_expanse_portal/1.2_access_accts_envs.pdf) 
    * Other
 * **Video Recording:** TBA
    * [Interactive Video]() / [YouTube]()

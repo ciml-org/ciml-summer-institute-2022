@@ -2,9 +2,9 @@
 
 ## To get the most current reservations, run the following command on Expanse:
 ```
-scontrol show res
+[xdtr107@login01 ~]$scontrol show res
 ```
-* Note the dates for when the reservations are available.
+* Note that the eservations are available only for specific dates and times.
 
 
 ## UPDATE: Friday, 6/24/22

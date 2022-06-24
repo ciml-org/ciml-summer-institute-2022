@@ -32,7 +32,9 @@ ReservationName=GPUmemoryissue StartTime=2022-01-20T17:30:16 EndTime=2022-08-08T
    TRES=cpu=40
    Users=root,mahidhar Groups=(null) Accounts=(null) Licenses=(null) State=ACTIVE BurstBuffer=(null) Watts=n/a
    MaxStartDelay=(null)
+```
 
+```
 ReservationName=sebatlab StartTime=2022-05-17T10:43:44 EndTime=2022-07-06T10:43:44 Duration=50-00:00:00
    Nodes=exp-15-55 NodeCnt=1 CoreCnt=128 Features=(null) PartitionName=(null) Flags=SPEC_NODES
    TRES=cpu=128
@@ -48,30 +50,39 @@ ReservationName=maint StartTime=2022-05-27T14:01:01 EndTime=2023-05-27T14:01:01 
    MaxStartDelay=(null)
 ```
 
+```
 ReservationName=ampres2022 StartTime=2022-06-24T18:00:00 EndTime=2022-06-25T06:00:00 Duration=12:00:00
    Nodes=exp-1-40 NodeCnt=1 CoreCnt=128 Features=(null) PartitionName=shared Flags=DAILY
    TRES=cpu=128
    Users=ampuser Groups=(null) Accounts=(null) Licenses=(null) State=INACTIVE BurstBuffer=(null) Watts=n/a
    MaxStartDelay=(null)
+```
 
+```
 ReservationName=abaqusres StartTime=2022-06-06T14:00:00 EndTime=2022-07-06T14:00:00 Duration=30-00:00:00
    Nodes=exp-14-[55-56] NodeCnt=2 CoreCnt=256 Features=(null) PartitionName=(null) Flags=OVERLAP,SPEC_NODES
    TRES=cpu=256
    Users=mahidhar,briggsn,mattchellali,padilla,adesa Groups=(null) Accounts=(null) Licenses=(null) State=ACTIVE BurstBuffer=(null) Watts=n/a
    MaxStartDelay=(null)
+```
 
+```
 ReservationName=ciml2022cpu StartTime=2022-06-27T07:00:00 EndTime=2022-06-27T15:00:00 Duration=08:00:00
    Nodes=exp-1-[01-03,05,07-15,17,19-21,24-56],exp-2-[01-04,06-08,10-16] NodeCnt=64 CoreCnt=8192 Features=(null) PartitionName=compute Flags=DAILY
    TRES=cpu=8192
    Users=(null) Groups=(null) Accounts=sds184 Licenses=(null) State=INACTIVE BurstBuffer=(null) Watts=n/a
    MaxStartDelay=(null)
+```
 
+```
 ReservationName=ciml2022gpu StartTime=2022-06-27T07:00:00 EndTime=2022-06-27T15:00:00 Duration=08:00:00
    Nodes=exp-1-[57-60],exp-2-[57-58,60],exp-3-[57-60],exp-4-[57,59-60],exp-5-[57-58] NodeCnt=16 CoreCnt=640 Features=(null) PartitionName=gpu Flags=DAILY
    TRES=cpu=640
    Users=(null) Groups=(null) Accounts=sds184 Licenses=(null) State=INACTIVE BurstBuffer=(null) Watts=n/a
    MaxStartDelay=(null)
+```
 
+```
 ReservationName=ciml-dev StartTime=2022-06-22T16:00:00 EndTime=2023-06-22T16:00:00 Duration=365-00:00:00
    Nodes=exp-8-40 NodeCnt=1 CoreCnt=128 Features=(null) PartitionName=(null) Flags=
    TRES=cpu=128
@@ -83,15 +94,16 @@ ReservationName=29thDIMM StartTime=2022-06-29T00:00:00 EndTime=2022-07-30T00:00:
    TRES=cpu=3200
    Users=root Groups=(null) Accounts=(null) Licenses=(null) State=INACTIVE BurstBuffer=(null) Watts=n/a
    MaxStartDelay=(null)
+```
 
+```
 ReservationName=30thDIMM StartTime=2022-06-30T00:00:00 EndTime=2022-07-30T00:00:00 Duration=30-00:00:00
    Nodes=exp-15-[01-04,09-10,12,16,18,20,22,27,30,32-33,35-36,39-40,45-56] NodeCnt=31 CoreCnt=3968 Features=(null) PartitionName=(null) Flags=OVERLAP,IGNORE_JOBS,SPEC_NODES
    TRES=cpu=3968
    Users=root Groups=(null) Accounts=(null) Licenses=(null) State=INACTIVE BurstBuffer=(null) Watts=n/a
    MaxStartDelay=(null)
-
-[xdtr107@login01 ~]$ 
 ```
+
 
 
 

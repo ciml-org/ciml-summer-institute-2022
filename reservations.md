@@ -9,6 +9,8 @@ scontrol show res
 
 ## UPDATE: Friday, 6/24/22
 
+```
+[xdtr107@login01 ~]$ scontrol show res
 ReservationName=k8s StartTime=2021-01-07T13:55:40 EndTime=2023-10-04T14:55:40 Duration=1000-00:00:00
    Nodes=exp-13-[55-56] NodeCnt=2 CoreCnt=256 Features=(null) PartitionName=(null) Flags=IGNORE_JOBS,SPEC_NODES
    TRES=cpu=256
@@ -81,7 +83,8 @@ ReservationName=30thDIMM StartTime=2022-06-30T00:00:00 EndTime=2022-07-30T00:00:
    Users=root Groups=(null) Accounts=(null) Licenses=(null) State=INACTIVE BurstBuffer=(null) Watts=n/a
    MaxStartDelay=(null)
 
-
+[xdtr107@login01 ~]$ 
+```
 
 
 

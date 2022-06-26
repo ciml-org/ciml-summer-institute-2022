@@ -12,7 +12,7 @@
 * **Video Recording:** will be made available as soon as possible
 * **Source Code/Examples:** [If applicable]()
 
-## TASKS 1: Launch Jupyter Lab on Expanse using a CONDA environment
+## TASK 1: Launch Jupyter Lab on Expanse using a CONDA environment
 1. Open a Terminal Window (expanse Shell Access) through the [Expanse Portal](https://portal.expanse.sdsc.edu/)
 
 2. Clone the Git repository df-parallel
@@ -27,7 +27,6 @@ git clone https://github.com/pwrose/df-parallel.git
 ```
 galyleo launch --account ${CIML_ACCOUNT} --reservation ${CIML_RESERVATION_GPU} --qos ${CIML_QOS_GPU} --partition gpu-shared --cpus 10 --memory 92 --gpus 1 --time-limit 01:00:00 --conda-env df-parallel-gpu --conda-yml "${HOME}/df-parallel/environment_gpu.yml" --mamba
 ```
-    For this task we are allocating 1 GPU, 10 CPUs, and 92 GB of memory. This is the maximum allocation     for a single GPU. This configuration will be charged 1 GPU Service Unit per hour.
 
 > The arguments ```--reservation ${CIML_RESERVATION_GPU} --qos ${CIML_QOS_GPU}``` are only active during the CIML workshop. Remove these arguments when running this example outside of the workshop and specify your project account number.
 
@@ -38,7 +37,8 @@ galyleo launch --account ${CIML_ACCOUNT} --reservation ${CIML_RESERVATION_GPU} -
 5. In your Zoom session, select "Yes" under the Reactions after you complete these steps.
 
 ## TASK 2: Run Notebooks in Jupyter Lab
-    For this task you will compare the runtime for a simple data analysis using 5 dataframe libraries.
+
+For this task you will compare the runtime for a simple data analysis using 5 dataframe libraries.
 
 1. Go to the Jupyter Lab session launched in TASK 1
 
@@ -58,11 +58,8 @@ galyleo launch --account ${CIML_ACCOUNT} --reservation ${CIML_RESERVATION_GPU} -
 
 5. In your Zoom session, select "Yes" under the Reactions after you complete these steps.
 
-[Back to Top](#top)
-
-
-## TASKS 3: Create a packed CONDA environment
-Here we will run a simple ML model to predict the protein fold class from a protein sequence. T
+## TASK 3: Create a packed CONDA environment
+Here we will run a simple ML model to predict the protein fold class from a protein sequence.
 
 1. Clone the Git repository notebooks-sharing
 ```
@@ -71,20 +68,18 @@ git clone https://github.com/sdsc-hpc-training-org/notebooks-sharing.git
 
 2. Create a packed Conda environment
 
-    Fill in the project account number and run the script. This script will launch a batch job to       create the packed environment with the name ```notebooks-sharing.tar.gz``` in your home directory.
+    This script will launch a batch job to create the packed environment ```notebooks-sharing.tar.gz``` in your home directory.
 
-    Download the pack.sh script
+    Download and run the pack.sh script
 ```
 wget https://raw.githubusercontent.com/sdsc-hpc-training-org/notebooks-sharing/main/pack.sh
 ```
 
-    Make the script executable
     
 ```
 chmod +x pack.sh
 ```
 
-    Run a batch job to create the packed Conda environment on a compute node.
     
 ```
 ./pack.sh --account ${CIML_ACCOUNT} --conda-env notebooks-sharing --conda-yml "${HOME}/notebooks-sharing/environment.yml"

@@ -100,5 +100,19 @@ Cuda compilation tools, release 11.6, V11.6.55
 Build cuda_11.6.r11.6/compiler.30794723_0
 ```
 
+We have version 11.6 installed so we are good to go. 
+The CUDA samples also require the path to CUDA, which we need to set manually with the current NVHPC installation:
+```
+export CUDA_PATH=$NVHPCHOME/Linux_x86_64/22.2/cuda
+```
+
+We can now move into the `device_query` source directory and compile the code with the `make` command. By default the Makefile will compile for all possible Nvidia GPU architectures. We restrict it to use SM version 7.0, which is the architecture of the V100 GPUs in Expanse:
+```
+cd cuda-samples/Samples/1_Utilities/deviceQuery
+```
+```
+make SMS=70
+```
+
 
 [Back to Top](#top)

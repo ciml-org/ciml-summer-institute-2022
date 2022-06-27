@@ -17,7 +17,7 @@
 
 Well will log into an Expanse GPU node, compile and test some examples from the Nvidia CUDA samples.
 
-### Log into Expanse and get onto a shared GPU node
+### Log into Expanse, get onto a shared GPU node, and load required modules
 
 First, log onto Expanse using your `xdtr` training account. You can do this either via the Expanse user portal or simply using ssh:
 ```
@@ -70,5 +70,14 @@ Mon Jun 27 08:39:33 2022
 |  No running processes found                                                 |
 +-----------------------------------------------------------------------------+
 ```
+
+### Copy the Nvidia CUDA samples into your home directory
+
+We will first copy the Nvidia CUDA samples from the shared CIML Summer Institute Data directory. This operation will take a few minutes, in particular if there are many participants copying the data at the same time, as there are many files to copy. We are going to use rsync so we can restart the copy operation in case it gets interrupted. We also exclude some data to speed up the copy:
+```
+rsync --exclude=2_Concepts_and_Techniques --exclude=3_CUDA_Features --exclude=5_Domain_Specific --exclude=6_Performance -au $CIML_DATA_DIR/cuda-samples ./
+```
+You can look into the data directory to see if there other samples that are of interest to you. The 
+
 
 [Back to Top](#top)

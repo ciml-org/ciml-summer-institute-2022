@@ -10,17 +10,17 @@
 * **Lecture material:**
    * Presentation Slides: will be made available closer to the session
 * **Video Recording:** will be made available as soon as possible
-* **Source Code/Examples:** [If applicable]()
+* **Source Code/Examples:** [df-parallel](https://github.com/sbl-sdsc/df-parallel.git), [notebooks-sharing](https://github.com/sdsc-hpc-training-org/notebooks-sharing.git)
 
 ## TASK 1A: Launch Jupyter Lab on Expanse using a CONDA environment
 1. Open a Terminal Window ("expanse Shell Access") through the [Expanse Portal](https://portal.expanse.sdsc.edu/)
 
 2. Clone the Git repository df-parallel
 ```
-git clone https://github.com/pwrose/df-parallel.git
+git clone https://github.com/sbl-sdsc/df-parallel.git
 ```
   
-3. Launch Jupyter Lab using the Galyleo
+3. Launch Jupyter Lab using the Galyleo script
 
    This script will generate a URL for your Jupyter Lab session.
 ```
@@ -33,7 +33,7 @@ galyleo launch --account ${CIML_ACCOUNT} --reservation ${CIML_RESERVATION_GPU} -
 
 > You should see the Satellite Reserver Proxy Servive page launch in your browser.
 
-5. In your Zoom session, select "Yes" under the Reactions after you complete these steps.
+5. In your Zoom session, select "Yes" under Reactions after you complete these steps.
 
 ## TASK 1B: Run Notebooks in Jupyter Lab
 
@@ -62,7 +62,7 @@ For this task you will compare the runtime for a simple data analysis using 5 da
 
     ```File -> Shutdown``` to terminate the process
 
-5. In your Zoom session, select "Yes" under the Reactions after you complete these steps.
+5. In your Zoom session, select "Yes" under "Reactions" after you complete these steps.
 
 ## TASK 2A: Create a packed CONDA environment
 Here we will run an ML model to predict the protein fold class from a protein sequence.
@@ -83,7 +83,7 @@ git clone https://github.com/sdsc-hpc-training-org/notebooks-sharing.git
  
 3. On the Expanse Portal, check that your job is running.
 
-4. In your Zoom session, select "Yes" under the Reactions after you complete these steps.  
+4. In your Zoom session, select "Yes" under "Reactions" after you complete these steps.  
     
 ## TASK 2B: Run a packed CONDA environment
 1. Launch Jupyter Lab using the packed Conda environment
@@ -103,7 +103,7 @@ galyleo launch --account ${CIML_ACCOUNT} --reservation ${CIML_RESERVATION_CPU} -
 
 3. **Do not shutdown Jupyter Lab**. You will use it for TASK 2C!
 
-4. In your Zoom session, select "Yes" under the Reactions after you complete these steps.
+4. In your Zoom session, select "Yes" under "Reactions" after you complete these steps.
 
 ## TASK 2C: Run Jupyter Lab in batch
 
@@ -141,5 +141,5 @@ sbatch ./notebooks-sharing/batch.sh
 
     Open the ```3-FitModel-LogisticRegression.ipynb``` and the ```3-FitModel-SVM.ipynb``` notebooks and compare the performance of the two models.
     
-6. In your Zoom session, select "Yes" under the Reactions after you complete these step
+6. In your Zoom session, select "Yes" under "Reactions" after you complete these step
     

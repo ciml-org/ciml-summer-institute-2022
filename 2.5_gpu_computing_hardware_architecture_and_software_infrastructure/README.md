@@ -77,7 +77,28 @@ We will first copy the Nvidia CUDA samples from the shared CIML Summer Institute
 ```
 rsync --exclude=2_Concepts_and_Techniques --exclude=3_CUDA_Features --exclude=5_Domain_Specific --exclude=6_Performance -au $CIML_DATA_DIR/cuda-samples ./
 ```
-You can look into the data directory to see if there other samples that are of interest to you. The 
+You can look into the data directory to see if there other samples that are of interest to you. The CUDA samples have been obtained from [Nvidia's Github repository](https://github.com/nvidia/cuda-samples).
+
+We are now ready to look at the CUDA samples.
+It can be instructive to look at the source code if you want to learn about CUDA.
+
+
+### Compile and run the `device_query` CUDA sample
+
+The first sample we will look at is `device_query`. This is a utility that demonstrates how to query Nvidia GPU properties. It often comes in handy to check information on the GPU that you have available.
+
+First, we check that we have an appropriate NVIDIA CUDA compiler available. The CUDA samples require at least version 11.3. Because we loaded the `nvhpc` module above, we should have the `nvcc` compiler available:
+```
+nvcc --version
+```
+should give the following output
+```
+nvcc: NVIDIA (R) Cuda compiler driver
+Copyright (c) 2005-2021 NVIDIA Corporation
+Built on Fri_Dec_17_18:16:03_PST_2021
+Cuda compilation tools, release 11.6, V11.6.55
+Build cuda_11.6.r11.6/compiler.30794723_0
+```
 
 
 [Back to Top](#top)

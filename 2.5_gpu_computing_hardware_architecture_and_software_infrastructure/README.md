@@ -29,9 +29,10 @@ Next we will use the alias for the `srun` command that is defined in your `.bash
 srun-gpu-shared
 ```
 
-Once we are on a GPU node, we load the `gpu` module to gain access to the GPU software stack:
+Once we are on a GPU node, we load the `gpu` module to gain access to the GPU software stack. We will also load the `nvhpc` module, which provides the NVIDIA HPC SDK:
 ```
 module load gpu
+module load nvhpc
 module list
 ```
 You should see following output
@@ -39,8 +40,7 @@ You should see following output
 
 Currently Loaded Modules:
   1) shared                  3) sdsc/1.0         5) gpu/0.15.4
-  2) slurm/expanse/21.08.8   4) DefaultModules
-
+  2) slurm/expanse/21.08.8   4) DefaultModules   6) nvhpc/22.2
 ```
 
 We can use the `nvidia-smi` command to check for available GPUs and which processes are running on the GPU.

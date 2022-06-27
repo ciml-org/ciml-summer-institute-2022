@@ -10,8 +10,19 @@
 * **Lecture material:**
    * Presentation Slides: will be made available closer to the session
 * **Video Recording:** will be made available as soon as possible
-* **Source Code/Examples:** [If applicable]()
+* **Source Code/Examples:** 
+  * https://github.com/sdsc-hpc-training-org/hpctr-examples
 
-### TASKS: None at this time.
+
+### TASKS: 
+#### Task 1:  clone the repo at https://github.com/sdsc-hpc-training-org/hpctr-examples
+#### Task 2:  Run the hands-on code for the following examples:
+* CPU Computijng:
+  * MPI (follow slides)
+  * OpenMP
+  * Hybrid MPI-OpenMP
+  * Experiment with other examples
+
+
 
 [Back to Top](#top)

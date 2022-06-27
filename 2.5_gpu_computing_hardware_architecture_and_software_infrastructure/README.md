@@ -114,10 +114,11 @@ cd cuda-samples/Samples/1_Utilities/deviceQuery
 make SMS=70
 ```
 
-You now should have an executable `deviceQuery` in the directory. If you execute it you should see an output with details about the GPU that is available:
+You now should have an executable `deviceQuery` in the directory. If you execute it: 
 ```
 ./deviceQuery
 ```
+you should see an output with details about the GPU that is available. In our case on Expanse it is a Tesla V100-SXM2-32GB GPU:
 ```
 ./deviceQuery Starting...
 
@@ -165,5 +166,74 @@ Device 0: "Tesla V100-SXM2-32GB"
 deviceQuery, CUDA Driver = CUDART, CUDA Driver Version = 11.6, CUDA Runtime Version = 11.2, NumDevs = 1
 Result = PASS
 ```
+
+### Compile and run the matrix multiplication
+
+It is instructive to look at two different matrix multiplication examples and compare the performance.
+
+First we will look at a hand-written matrix multiplication. This implementation features several performance optimizations such as minimize data transfer from GPU RAM to the GPU processors and increase floating point performance.
+```
+cd cuda-samples/Samples/0_Introduction/matrixMul
+```
+```
+make SMS=70
+```
+We now have the executable `matrixMul` available. If we execute it,
+```
+./matrixMul
+```
+a matrix multiplication will be performed and the performance reported
+```
+[Matrix Multiply Using CUDA] - Starting...
+GPU Device 0: "Volta" with compute capability 7.0
+
+MatrixA(320,320), MatrixB(640,320)
+Computing result using CUDA Kernel...
+done
+Performance= 2796.59 GFlop/s, Time= 0.047 msec, Size= 131072000 Ops, WorkgroupSize= 1024 threads/block
+Checking computed result for correctness: Result = PASS
+
+NOTE: The CUDA Samples are not meant for performance measurements. Results may vary when GPU Boost is enabled.
+```
+
+### Compile and run matrix multiplication with CUBLAS library
+
+Finally, let us look at a matrix multiplication that uses Nvidia's CUBLAS library, which is a highly optimized version of the Basic Linear Algebra System for Nvidia GPUs.
+
+Note: The `nvhpc` module currently does not set the paths to the Nvidia math libraries. This will be fixed but for now we thus set the paths manually using following commands:
+```
+export CPATH=$CPATH:$NVHPCHOME/Linux_x86_64/22.2/math_libs/include
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$NVHPCHOME/Linux_x86_64/22.2/math_libs/lib64
+export LIBRARY_PATH=$LIBRARY_PATH:$NVHPCHOME/Linux_x86_64/22.2/math_libs/lib64
+```
+
+We are now ready to compile the example:
+```
+cd cuda-samples/Samples/4_CUDA_Libraries/matrixMulCUBLAS
+```
+```
+make SMS=70
+```
+If we run the executable
+```
+./matrixMulCUBLAS
+```
+we should get following output:
+```
+[Matrix Multiply CUBLAS] - Starting...
+GPU Device 0: "Volta" with compute capability 7.0
+
+GPU Device 0: "Tesla V100-SXM2-32GB" with compute capability 7.0
+
+MatrixA(640,480), MatrixB(480,320), MatrixC(640,320)
+Computing result using CUBLAS...done.
+Performance= 7032.97 GFlop/s, Time= 0.028 msec, Size= 196608000 Ops
+Computing result using host CPU...done.
+Comparing CUBLAS Matrix Multiply with CPU results: PASS
+
+NOTE: The CUDA Samples are not meant for performance measurements. Results may vary when GPU Boost is enabled.
+```
+
+How does the performance compare to the hand written (but optimized) matrix multiplication?
 
 [Back to Top](#top)

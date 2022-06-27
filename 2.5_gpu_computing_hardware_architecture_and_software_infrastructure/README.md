@@ -8,9 +8,10 @@
 
 ### Reading and Presentations:
 * **Lecture material:**
-   * Presentation Slides: will be made available closer to the session
+   * Presentation Slides:
+	 * [GPU Computing - Hardware Architecture and Software Infrastructure](https://github.com/ciml-org/ciml-summer-institute-2022/blob/main/2.5_gpu_computing_hardware_architecture_and_software_infrastructure/CIML-SI22-Day2-GPU-Computing-2022-06-27.pdf)
 * **Video Recording:** will be made available as soon as possible
-* **Source Code/Examples:** [If applicable]()
+* **Source Code/Examples:** [Nvidia CUDA Samples](https://github.com/NVIDIA/cuda-samples)
 
 ### TASKS: None at this time.
 

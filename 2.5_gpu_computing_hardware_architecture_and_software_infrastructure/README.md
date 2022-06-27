@@ -43,9 +43,12 @@ Currently Loaded Modules:
 
 ```
 
-We can use the `nvidia-smi` command to check for available GPUs and which processes are running on the GPU. You should have a single V100 GPU available and there should be no processes running:
+We can use the `nvidia-smi` command to check for available GPUs and which processes are running on the GPU.
 ```
-[xdtr101@exp-2-57 ~]$ nvidia-smi
+nvidia-smi
+```
+You should have a single V100 GPU available and there should be no processes running:
+```
 Mon Jun 27 08:39:33 2022       
 +-----------------------------------------------------------------------------+
 | NVIDIA-SMI 510.39.01    Driver Version: 510.39.01    CUDA Version: 11.6     |

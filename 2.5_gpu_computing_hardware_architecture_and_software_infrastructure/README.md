@@ -17,7 +17,7 @@
 
 Well will log into an Expanse GPU node, compile and test some examples from the Nvidia CUDA samples.
 
-#### Log into Expanse and get onto a shared GPU node
+### Log into Expanse and get onto a shared GPU node
 
 First, log onto Expanse using your `xdtr` training account. You can do this either via the Expanse user portal or simply using ssh:
 ```
@@ -31,8 +31,11 @@ srun-gpu-shared
 
 Once we are on a GPU node, we load the `gpu` module to gain access to the GPU software stack:
 ```
-[xdtr101@exp-2-57 ~]$ module load gpu
-[xdtr101@exp-2-57 ~]$ module list
+module load gpu
+module list
+```
+You should see following output
+```
 
 Currently Loaded Modules:
   1) shared                  3) sdsc/1.0         5) gpu/0.15.4

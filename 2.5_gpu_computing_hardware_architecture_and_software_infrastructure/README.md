@@ -13,6 +13,15 @@
 * **Video Recording:** will be made available as soon as possible
 * **Source Code/Examples:** [Nvidia CUDA Samples](https://github.com/NVIDIA/cuda-samples)
 
-### TASKS: None at this time.
+### TASKS:
+
+Well will log into an Expanse GPU node, compile and test some examples from the Nvidia CUDA samples.
+
+#### Log into Expanse and get onto a shared GPU node
+
+First, log onto Expanse using your `xdtr` training account
+```
+ssh xdtrXXX@login.expanse.sdsc.edu
+```
 
 [Back to Top](#top)

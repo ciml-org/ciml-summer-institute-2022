@@ -8,10 +8,9 @@
 
 ### Reading and Presentations:
 * **Lecture material:**
-   * Presentation Slides: will be made available closer to the session
+   * Presentation Slides: [CIML-Day2-Welcome-Logistics-06-27-2022.pdf](https://github.com/ciml-org/ciml-summer-institute-2022/blob/main/2.1_welcome_orientation_introductions/CIML-Day2-Welcome-Logistics-06-27-2022.pdf)
 * **Video Recording:** will be made available as soon as possible
-* **Source Code/Examples:** [If applicable]()
-
+* **Source Code/Examples:** n/a
 ### TASKS: None at this time.
 
 [Back to Top](#top)

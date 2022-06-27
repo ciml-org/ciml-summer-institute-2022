@@ -1,0 +1,61 @@
+#!/bin/bash
+#SBATCH --job-name="serial-hybrid"
+#SBATCH --output="serial-hybrid.%j.%N.out"
+#SBATCH --partition=compute
+#SBATCH --nodes=2
+#  #SBATCH --ntasks-per-node=1
+#  #SBATCH --cpus-per-task=128  
+#SBATCH --ntasks-per-node=128
+#SBATCH --cpus-per-task=1  
+#SBATCH --export=ALL
+#SBATCH -t 0:30:00
+#SBATCH -A sds164
+
+#### THis is from cm share  examples 
+###     /cm/shared/examples/sdsc/mpi-openmp-hybrid/hybrid-slurm.sb
+
+#Environment
+module purge
+
+#need these 4 for mpirun command to work
+#module load gcc or intel
+module load slurm
+module load cpu
+module load intel
+module load intel-mpi
+
+#Run
+export OMP_NUM_THREADS=128  #try1A  this seems to work I get 256 output lines
+	 # of 128 threads for 2 process 1 on each node
+#runs but not get on each node 
+#    srun --cpus-per-task=$OMP_NUM_THREADS -n 2 ./get_mpirank_runcmd.pl
+# it needs the mpi wrapper or mpirun...
+#mpirun -genv I_MPI_PIN_DOMAIN=omp:compact ./getide  #this workd
+#mpirun -genv I_MPI_PIN_DOMAIN=omp:compact ./get_mpirank_runcmd.pl  #thiswkd
+
+#try10A again
+mpirun -genv I_MPI_PIN_DOMAIN=omp:compact ./get_mpirank_runcmd.pl  #thiswkd
+
+
+#try10A
+#export OMP_NUM_THREADS=1  #try10A 
+#mpirun -genv I_MPI_PIN_DOMAIN=omp:compact ./hello_hybrid #try10A works
+#not wk srun -genv I_MPI_PIN_DOMAIN=omp:compact ./get_mpirank_runcmd.pl
+#not right for 10A srun --cpus-per-task=$OMP_NUM_THREADS -n 2 ./get_mpirank_runcmd.pl
+
+#original test worked, try 1A
+#export OMP_NUM_THREADS=128  #try1A  this seems to work I get 256 output lines
+#mpirun -genv I_MPI_PIN_DOMAIN=omp:compact ./hello_hybrid
+
+
+#--------------------------------------------
+#try1 test w/perl not work  -segfault
+#mpirun -genv I_MPI_PIN_DOMAIN=omp:compact ./get_mpirank_runcmd.pl
+
+#try2
+#mpirun -genv I_MPI_PIN_DOMAIN=omp:compact ./get_mpirank_runcmd.pl
+
+#try3 - not work
+#srun --mpi=pmi2 --cpus-per-task=$OMP_NUM_THREADS -n 1 ./hello_hybrid
+#srun --mpi=pmi2 --cpus-per-task=$OMP_NUM_THREADS -n 2 ./hello_hybrid
+

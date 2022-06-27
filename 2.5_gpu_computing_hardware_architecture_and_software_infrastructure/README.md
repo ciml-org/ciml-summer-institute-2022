@@ -4,7 +4,7 @@
 
 **Date:** June 27, 2022
 
-**Presented by:** [Andreas Goetz](https://www.sdsc.edu/research/researcher_spotlight/goetz_andreas.html) ( awgoetz  @  ucsd.edu ) 
+**Presented by:** [Andreas Goetz](https://www.sdsc.edu/research/researcher_spotlight/goetz_andreas.html) ( agoetz  @  sdsc.edu ) 
 
 ### Reading and Presentations:
 * **Lecture material:**

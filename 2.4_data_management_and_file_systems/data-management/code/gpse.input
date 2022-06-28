@@ -1,0 +1,64 @@
+ &gpseIn
+   itpOn     = .FALSE.     ! Perform imaginary time propagation? .TRUE. = Yes ; .FALSE. = No
+   rk4Lambda = 2           ! 1 = Tan-Chen-1 ; 2 = Classical 4th-Order Runge-Kutta ; 3 = Tan-Chen Lambda-3 ; 4 = England ; 5 = Tan-Chen-5
+   fdOrder   = 2           ! 2 = 2nd-Order Central Differences ( CD ); 4 = 4th-Order CD ; 6 = 6th-Order CD; 8 = 8th-Order CD
+   nTsteps   = 155520      ! Total number of time steps in simulation
+   nTwrite   = 648         ! Period of IO writes to disk; i.e., number of time steps between writes to disk
+   nX        = 1152        ! Number of grid points along the x-axis
+   nY        = 1152        ! Number of grid points along the y-axis
+   nZ        = 576         ! Number of grid points along the z-axis
+   dNx       = 1           ! Write out wave function only every dNx grid points along the x-axis 
+   dNy       = 1           ! Write out wave function only every dNy grid points along the y-axis
+   dNz       = 1           ! Write out wave function only every dNz grid points along the z-axis
+   t0        = 0.0         ! Time at the beginning of the simulation
+   tF        = 30.0        ! Time at the end of the simulation; only use for compton generator
+   xO        = 0.0         ! X-coordinate of the centre of the grid
+   yO        = 0.0         ! Y-coordinate of the centre of the grid
+   zO        = 0.0         ! Z-coordinate of the centre of the grid
+   dT        = 1.929012345679e-4 ! Interval of a time step
+   dX        = 0.02777777777 ! Distance between grid points along the x-axis
+   dY        = 0.02777777777 ! Distance between grid points along the y-axis
+   dZ        = 0.02777777777 ! Distance between grid points along the z-axis
+   xOrrf     = 0.0         ! X-coordinate of the rotating reference frame's origin
+   yOrrf     = 0.0         ! Y-coordinate of the rotating reference frame's origin
+   zOrrf     = 0.0         ! Z-coordinate of the rotating reference frame's origin
+   wX        = 0.0         ! X-component of the rotating reference frame's angular velocity vector
+   wY        = 0.0         ! Y-component of the rotating reference frame's angular velocity vector
+   wZ        = 0.5         ! Z-component of the rotating reference frame's angular velocity vector
+   gS        = 0.0         ! Nonlinear atom-atom interaction coupling constant
+   psiInput  = 1           ! 0 = No input wave function; 1 = Read wave function from .bin file; 2 = Read wave function from .vtk file ( not available yet )
+   psiOutput = 3           ! 0 = No output wave function; 1 = Write wave function to .bin file; 2 = Write wave function to .vtk file; 5 = Write int den to .splot
+   psiFileNo = 500         ! Set psiFileNo to input wave function file number 
+   psiInit   = 3           ! 0 = Isotropic 3D SHO ; 1 = Anisotropic 3D SHO ; 2 = Axisymmetric 3D SHO ; 3 = Approx 3D SHOR
+   nXpsi     = 0           ! Degree of Hermite polynomial used to define anisotropic SHO wave function along x-axis
+   nYpsi     = 0           ! Degree of Hermite polynomial used to define anisotropic SHO wave function along y-axis
+   nZpsi     = 0           ! Degree of Hermite polynomial used to define both anisotropic and axially-symmetric SHO wave functions along z-axis
+   nRpsi     = 0           ! Degree of (associated) Laguerre polynomials used to define radial components of isotropic and axially-symmetric SHO wave functions
+   mLpsi     = 0           ! Projection of orbital angular momentum along z-axis for axially-symmetric SHO wave function
+   xOpsi     = 0.0         ! X-coordinate of origin used to define initial wave function
+   yOpsi     = 0.0         ! Y-coordinate of origin used to define initial wave function
+   zOpsi     = 0.0         ! Z-coordinate of origin used to define initial wave function
+   rOpsi     = 10.0        ! Radius of psiInit = 3 SHOR approx wavefunction
+   wXpsi     = 0.0         ! Angular frequency of SHO potential along x-axis used to define anisotropic SHO wave function
+   wYpsi     = 0.0         ! Angular frequency of SHO potential along y-axis used to define anisotropic SHO wave function
+   wZpsi     = 1.0        ! Angular frequency of SHO potential along z-axis used to define both anisotropic and axially-symmetric SHO wave functions
+   wRpsi     = 1.0         ! Radial angular frequency of axially-symmetric SHO or SHOR potential used to define axially-symmetric SHO or approx SHOR wave functions
+   pXpsi     = 0.0         ! Initial linear momentum boost along x-axis
+   pYpsi     = 0.0         ! Initial linear momentum boost along y-axis
+   pZpsi     = 0.0         ! Initial linear momentum boost along z-axis
+   vexInput  = 0           ! 0 = No input external potential
+   vexOutput = 0           ! 0 = No output external potential 
+   vexFileNo = 501         ! Set vexFileNo to input external potential file number
+   vexInit   = 2           ! 0 =  Linear ; 1 = SHO ; 2 = SHOR
+   xOvex     = 0.0         ! X-coordinate of the external potential's origin (or centre).
+   yOvex     = 0.0         ! Y-coordinate of the external potential's origin (or centre).
+   zOvex     = 0.0         ! Z-coordinate of the external potential's origin (or centre).
+   rOvex     = 10.0        ! Radius of SHOR
+   fXvex     = 0.0         ! Constant force along x-axis
+   fYvex     = 0.0         ! Constant force along y-axis
+   fZvex     = 0.0         ! Constant force along z-axis
+   wXvex     = 0.0         ! Angular frequency of SHO potential along x-axis
+   wYvex     = 0.0         ! Angular frequency of SHO potential along y-axis
+   wZvex     = 1.0        ! Angular frequency of SHO / SHOR potential along z-axis
+   wRvex     = 1.0         ! Radial angular frequency of axially-symmetric SHO or SHOR potential
+/

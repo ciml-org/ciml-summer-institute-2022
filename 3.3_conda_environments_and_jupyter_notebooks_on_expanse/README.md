@@ -8,7 +8,7 @@
 
 ### Reading and Presentations:
 * **Lecture material:**
-   * Presentation Slides: will be made available closer to the session
+   * [Presentation Slides](https://github.com/pwrose/ciml-summer-institute-2022/blob/main/3.3_conda_environments_and_jupyter_notebooks_on_expanse/CIML_3.3_2022.pdf)
 * **Video Recording:** will be made available as soon as possible
 * **Source Code/Examples:** [df-parallel](https://github.com/sbl-sdsc/df-parallel.git), [notebooks-sharing](https://github.com/sdsc-hpc-training-org/notebooks-sharing.git)
 

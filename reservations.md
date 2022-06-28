@@ -27,5 +27,8 @@ srun-compute='srun --account=sds184 --reservation=ciml2022cpu --partition=comput
 
 ```
 srun-gpu-shared='srun --account=sds184 --reservation=ciml2022gpu --partition=gpu-shared --qos=gpu-shared-eot --nodes=1 --ntasks-per-node=1 --cpus-per-task=10 --mem=92G --gpus=1 --time=04:00:00 --pty --wait=0 /bin/bash'
-alias srun-shared='srun --account=sds184 --reservation=ciml2022cpu --partition=shared --nodes=1 --ntasks-per-node=1 --cpus-per-task=4 --mem=16G --time=04:00:00 --pty --wait=0 /bin/bash'
+```
+
+```
+srun-shared='srun --account=sds184 --reservation=ciml2022cpu --partition=shared --nodes=1 --ntasks-per-node=1 --cpus-per-task=4 --mem=16G --time=04:00:00 --pty --wait=0 /bin/bash'
 ```

@@ -4,7 +4,7 @@
 
 **Date:** June 28, 2022
 
-**Presented by:** [Mai Nguyen](https://www.sdsc.edu/research/researcher_spotlight/nguyen_mai.html) (mhnguyen @ucsd.edu) 
+**Presented by:** [Paul Rodriguez](https://www.sdsc.edu/research/researcher_spotlight/rodriguez_paul.html) (p4rodriguez @ucsd.edu)  [Mai Nguyen](https://www.sdsc.edu/research/researcher_spotlight/nguyen_mai.html) (mhnguyen @ucsd.edu) 
 
 ### Reading and Presentations:
 * **Lecture material:**

@@ -42,7 +42,7 @@ All times are in Pacific time.
 | 10:05 AM – 11:35 AM	 |  [2.4 Data Management and File Systems](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/2.4_data_management_and_file_systems) | [Marty Kandes](https://www.linkedin.com/in/marty-kandes-b53a34144/) |
 | 11:35 AM – 12:05 PM  | Break/Lunch |    |
 | 12:05 PM – 1:50 PM   |  [2.5  GPU Computing - Hardware architecture and software infrastructure](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/2.5_gpu_computing_hardware_architecture_and_software_infrastructure)| [Andreas Goetz](https://www.sdsc.edu/research/researcher_spotlight/goetz_andreas.html) |
-| 12:05 PM – 1:50 PM   |  [Q&A, Wrap-up](need link) | All |
+| 12:05 PM – 1:50 PM   |  Q&A, Wrap-up | All |
 
 [Back to Top](#top)
 

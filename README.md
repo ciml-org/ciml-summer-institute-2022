@@ -51,7 +51,7 @@ All times are in Pacific time.
 | -------------------- | ----------- | ----------- |
 | 8:00 AM – 8:05 AM   |  [3.1 Quick Welcome](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.1_quick_welcome_introduction)  | [Mary Thomas](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)  |
 | 8:05 AM – 9:05 AM   | 	[3.2 Introduction to Singularity: Containers for Scientific and <br>High-Performance Computing](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.2_introduction_to_singularity)  |  [Marty Kandes](https://www.linkedin.com/in/marty-kandes-b53a34144/)  |
-| 9:05 AM – 10:50 AM  |  [3.3 CONDA Environments and Jupyter Notebook on Expanse: Scalable & Reproducible Data Exploration and ML](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.3_conda_environments_and_juptyer_notebooks_on_expanse) | [Peter Rose](https://www.sdsc.edu/research/researcher_spotlight/rose_peter.html) |
+| 9:05 AM – 10:50 AM  |  [3.3 CONDA Environments and Jupyter Notebook on Expanse: Scalable & Reproducible Data Exploration and ML](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.3_conda_environments_and_jupyter_notebooks_on_expanse) | [Peter Rose](https://www.sdsc.edu/research/researcher_spotlight/rose_peter.html) |
 | 10:50 AM – 11:20 AM |  Break/ Lunch |  |
 | 11:20 AM – 11:35 AM |  [3.4 Machine Learning (ML) Overview](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.4_machine_learning_overview)  | [Mai Nguyen](https://www.sdsc.edu/research/researcher_spotlight/nguyen_mai.html) |
 | 11:35 AM – 12:05 PM |  [3.5 R on HPC Demo](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.5_r_on_hpc_demo) | [Paul Rodriguez](https://www.coursera.org/instructor/~13847302) |

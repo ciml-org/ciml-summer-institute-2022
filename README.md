@@ -72,3 +72,16 @@ All times are in Pacific time.
 | 1:25 PM – 2:00 PM   | Q&A, wrap-up | |
 
 [Back to Top](#top)
+
+### CIML Instructors<a name="instructors"></a>
+| **Name** | **Title** | **Contact** |
+| -------------------- | ----------- | ----------- |
+| Andreas Goetz, Ph.D.   |  Research Scientist, Principal Investigator  | awgoetz at ucsd.edu |
+| Marty Kandes Ph.D. |  Computational and Data Science Research Specialist | 	mkandes at ucsd.edu |
+| Mai Nguyen Ph.D. |  Lead for Data Analytics | 	mhnguyen at ucsd.edu |
+| Paul Rodriguez Ph.D.	|  Computational Data Scientist | 	p4rodriguez at ucsd.edu |
+| Peter Rose Ph.D.	|  Director for Structural Bioinformatics Laboratory  | 	pwrose at ucsd.edu |
+| Robert Sinkovits Ph.D.  |  Director of Education and Training  | 	rssinkovits at ucsd.edu |
+| Mary Thomas Ph.D.  |  Director of CIML, Computational Data Scientist, HPC Trainer  | 	mpthomas at ucsd.edu |
+
+[Back to Top](#top)

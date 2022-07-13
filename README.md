@@ -2,7 +2,7 @@
 ## Website: [https://na.eventscloud.com/website/35357/home/](https://na.eventscloud.com/website/35357/home/)
 
 ## Interactive Videos
-* A link to the recorded sessions will be made available a.s.a.p after the program has concluded
+* Recorded sessions can be found [here](https://education.sdsc.edu/training/interactive/202206_ciml_si22/)
 * A full catalog of all our trainings at SDSC can be found [here](https://www.sdsc.edu/education_and_training/training_hpc.html#catalog).
 
 ### <a name="top">**Contents:**

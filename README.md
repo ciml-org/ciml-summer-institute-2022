@@ -49,26 +49,26 @@ All times are in Pacific time.
 ### Scalable Machine Learning (Tuesday, 06/28/22)<a name="agenda-scalable-ml"></a>
 | **TIME (Pacific time)**       | **TOPIC** | **PRESENTER** |
 | -------------------- | ----------- | ----------- |
-| 8:00 AM – 8:05 AM   |  [3.1 Quick Welcome](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.1_quick_welcome_introduction)  | [Mary Thomas](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)  |
-| 8:05 AM – 9:15 AM   | 	[3.2 Introduction to Singularity: Containers for Scientific and <br>High-Performance Computing](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.2_introduction_to_singularity)  |  [Marty Kandes](https://www.linkedin.com/in/marty-kandes-b53a34144/)  |
-| 9:15 AM – 11:00 AM  |  [3.3 CONDA Environments and Jupyter Notebook on Expanse: Scalable & Reproducible Data Exploration and ML](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.3_conda_environments_and_jupyter_notebooks_on_expanse) | [Peter Rose](https://www.sdsc.edu/research/researcher_spotlight/rose_peter.html) |
+| 8:00 AM – 8:05 AM   |  [3.1 Quick Welcome](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.1_quick_welcome_introduction) | [Mary Thomas](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)  |
+| 8:05 AM – 9:15 AM   | 	[3.2 Introduction to Singularity: Containers for Scientific and <br>High-Performance Computing](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.2_introduction_to_singularity) [ [Interactive Video] ](https://education.sdsc.edu/training/interactive/202206_ciml_si22/section3_2/) |  [Marty Kandes](https://www.linkedin.com/in/marty-kandes-b53a34144/)  |
+| 9:15 AM – 11:00 AM  |  [3.3 CONDA Environments and Jupyter Notebook on Expanse: Scalable & Reproducible Data Exploration and ML](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.3_conda_environments_and_jupyter_notebooks_on_expanse) [ [Interactive Video] ](https://education.sdsc.edu/training/interactive/202206_ciml_si22/section3_3/) | [Peter Rose](https://www.sdsc.edu/research/researcher_spotlight/rose_peter.html) |
 | 11:00 AM – 11:30 AM |  Break/ Lunch |  |
 | 11:30 AM – 11:45 AM |  [3.4 Machine Learning (ML) Overview](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.4_machine_learning_overview) <br> Session was skipped, but resources are still availabe | [Mai Nguyen](https://www.sdsc.edu/research/researcher_spotlight/nguyen_mai.html) |
-| 11:45 AM – 12:15 PM |  [3.5 R on HPC Demo](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.5_r_on_hpc_demo) | [Paul Rodriguez](https://www.coursera.org/instructor/~13847302) |
-| 12:15 PM – 2:15 PM  |  [3.6 Spark](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.6_spark)   | [Mai Nguyen](https://www.sdsc.edu/research/researcher_spotlight/nguyen_mai.html) |
+| 11:45 AM – 12:15 PM |  [3.5 R on HPC Demo](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.5_r_on_hpc_demo) [ [Interactive Video] ](https://education.sdsc.edu/training/interactive/202206_ciml_si22/section3_5/) | [Paul Rodriguez](https://www.coursera.org/instructor/~13847302) |
+| 12:15 PM – 2:15 PM  |  [3.6 Spark](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.6_spark) [ [Interactive Video] ](https://education.sdsc.edu/training/interactive/202206_ciml_si22/section3_6/) | [Mai Nguyen](https://www.sdsc.edu/research/researcher_spotlight/nguyen_mai.html) |
 
 [Back to Top](#top)
 
 ### Deep Learning (Wednesday, 06/29/22)<a name="agenda-deep-ml"></a>
 | **TIME (Pacific time)** | **TOPIC** | **PRESENTER** |
 | -------------------- | ----------- | ----------- |
-| 8:00 AM – 8:05 AM    |  [4.1 Quick Welcome](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/4.1_quick_welcome_introduction)  | [Mary Thomas](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html) |
-| 8:05 AM – 9:05 AM    |  [4.2 Intro to NN/CNN ](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/4.2_intro_to_nn_cnn) | [Paul Rodriguez](https://www.coursera.org/instructor/~13847302) |
-| 9:05 AM – 10:05 AM   |  [4.3 Deep Learning](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/4.3_deep_learning) | [Paul Rodriguez](https://www.coursera.org/instructor/~13847302)  |
-| 10:05 AM – 10:50 AM	 |  [4.4 Deep Learning Layers and Models](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/4.4_deep_learning_layers_and_models) | [Mai Nguyen](https://www.sdsc.edu/research/researcher_spotlight/nguyen_mai.html) |
+| 8:00 AM – 8:05 AM    |  [4.1 Quick Welcome](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/4.1_quick_welcome_introduction) | [Mary Thomas](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html) |
+| 8:05 AM – 9:05 AM    |  [4.2 Intro to NN/CNN ](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/4.2_intro_to_nn_cnn) [ [Interactive Video] ](https://education.sdsc.edu/training/interactive/202206_ciml_si22/section4_2/) | [Paul Rodriguez](https://www.coursera.org/instructor/~13847302) |
+| 9:05 AM – 10:05 AM   |  [4.3 Deep Learning](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/4.3_deep_learning) [ [Interactive Video] ](https://education.sdsc.edu/training/interactive/202206_ciml_si22/section4_3/) | [Paul Rodriguez](https://www.coursera.org/instructor/~13847302)  |
+| 10:05 AM – 10:50 AM	 |  [4.4 Deep Learning Layers and Models](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/4.4_deep_learning_layers_and_models) [ [Interactive Video] ](https://education.sdsc.edu/training/interactive/202206_ciml_si22/section4_4/) | [Mai Nguyen](https://www.sdsc.edu/research/researcher_spotlight/nguyen_mai.html) |
 | 10:55 AM – 11:25 AM	 |  Break/Lunch  |  |
-| 11:25 AM – 12:25 PM   |  [4.5 Deep Learning Transfer Learning](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/4.5_deep_learning_transfer_learning)  | [Mai Nguyen](https://www.sdsc.edu/research/researcher_spotlight/nguyen_mai.html) |
-| 12:25 PM – 1:25 PM    |  [4.6 Deep Learning – Other topics](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/4.6_deep_learning_other_topics)  | [Paul Rodriguez](https://www.coursera.org/instructor/~13847302) |
+| 11:25 AM – 12:25 PM   |  [4.5 Deep Learning Transfer Learning](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/4.5_deep_learning_transfer_learning) [ [Interactive Video] ](https://education.sdsc.edu/training/interactive/202206_ciml_si22/section4_5/)  | [Mai Nguyen](https://www.sdsc.edu/research/researcher_spotlight/nguyen_mai.html) |
+| 12:25 PM – 1:25 PM    |  [4.6 Deep Learning – Other topics](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/4.6_deep_learning_other_topics) [ [Interactive Video] ](https://education.sdsc.edu/training/interactive/202206_ciml_si22/section4_6/) | [Paul Rodriguez](https://www.coursera.org/instructor/~13847302) |
 | 1:25 PM – 2:00 PM   | Q&A, wrap-up | |
 
 [Back to Top](#top)
